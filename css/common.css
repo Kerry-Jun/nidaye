@@ -1,0 +1,48 @@
+@charset "utf-8";
+@font-face {font-family: 'iconfont';
+    src: url('iconfont.eot'); /* IE9*/
+    src: url('iconfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('iconfont.woff') format('woff'), /* chrome、firefox */
+    url('iconfont.ttf') format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+    url('iconfont.svg#iconfont') format('svg'); /* iOS 4.1- */
+}
+html,body,ul,li,div,span,a,p,img,dl,dt,dd,h1,h2,h3,h4,h5 {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body {
+	position: relative;
+	font: 12px/1.5 Helvetica,Tahoma,Arial,"Hiragino Sans GB","Microsoft YaHei",SimSun,Heiti,sans-serif;
+	color: #666;
+}
+a {
+	text-decoration: none!important;
+	color: #666;
+	font-size: 12px;
+}
+a {
+	cursor: pointer;
+}
+li {
+	list-style: none;
+}
+.right {
+	float: right;
+}
+.left {
+	float: left;
+}
+.rel {
+	position: relative;
+}
+.abs {
+	position: absolute;
+}
+.clear:after {
+	content: "";
+	display: block;
+	height: auto;
+	overflow: hidden;
+	clear: both;
+}

@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>购物车</title>
+		<link rel="stylesheet" href="../css/common.css" />
+		<link rel="stylesheet" href="../css/item.css" />
+		<link rel="stylesheet" href="../css/shopCar.css" />
+	</head>
+	<body>
+		<div class="head">
+			<div class="left left-box">
+				<a class="a" href="../index.html">魅族官网</a>
+				<a class="a" href="soldmall.html">魅族商城</a>
+				<a class="a" href="../index.html">Flyme</a>
+				<a class="a" href="../index.html">专卖店</a>
+				<a class="a" href="../index.html">服务</a>
+				<a class="a" href="../index.html">社区</a>
+			</div>
+			<div class="right right-box">
+				<a class="a">我的收藏<div class="rel icon"><span class="abs arr"></span>new</div></a>
+				<a class="a" href="myOrder.html">我的订单</a>
+				<a id="toCar" class="a" href="shopCar.html">我的购物车</a>
+				<a id="login" class="a" href="login.html">登录</a>
+				<a class="a" href="register.html">注册</a>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="rel nav">
+			<a class="left logo" href="../index.html"><img src="../img/head.png"/></a>
+			<ul class="menu">
+				<div class="li-box">
+					<li class="li" index="0"><a class="a">PRO手机</a></li>
+					<li class="li" index="1"><a class="a">魅蓝手机</a></li>
+					<li class="li" index="2"><a class="a">MX手机</a></li>
+					<li class="li" index="3"><a class="a">精选配件</a></li>
+					<li class="li" index="4"><a class="a">智能硬件</a></li>
+					<div class="clear"></div>
+					<div class="abs menu-list">
+						<div class="list list1">
+							<ul>
+								<div class="clear"></div>
+							</ul>
+						</div>
+						<div class="list list2">
+							<ul>
+								<div class="clear"></div>
+							</ul>
+						</div>
+						<div class="list list3">
+							<ul>
+								<div class="clear"></div>
+							</ul>
+						</div><div class="list list4">
+							<ul>
+								<div class="clear"></div>
+							</ul>
+						</div>
+						<div class="list list5">
+							<ul>
+								<div class="clear"></div>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</ul>
+		</div>
+		
+		<div class="main">
+			
+			<ul class="top-ul">
+				<li class="pointer">1  我的购物车</li>
+				<li>2  填写核对订单信息</li>
+				<li>3  成功提交订单</li>
+			</ul>
+			
+			<table id="shopCar">
+				<tr class="first">
+					<td class="checkbox"><input id="allCheck" type="checkbox" />全选</td>
+					<td class="item">商品</td>
+					<td class="price">单价</td>
+					<td class="sum_price">总价</td>
+					<td class="num">购买数量</td>
+					<td class="elc">其他</td>
+				</tr>
+				<!--<tr class="item-details">
+					<td class="item-check">
+						<input class="check" type="checkbox" />
+					</td>
+					<td class="item-name">
+						<img class="left" src="../img/item_img/mx6/mx6_item_head_gold_small1.jpg" />
+						<p class="left">
+							<a>魅蓝 U20 全网通公开版 星空黑 16GB</a>
+						</p>
+						<div class="clear"></div>
+					</td>
+					<td class="item-price">
+						<p class="left">￥1999.00</p>
+					</td>
+					<td class="item-num rel">
+						<input class="itemNum-add" type="number" value="" />
+					</td>
+					<td class="item-elc">
+						<p class="left"><a class="btn">确认下单</a></p>
+						<p class="left"><a class="btn btn2">删除该条</a></p>
+					</td>
+				</tr>-->
+				
+				
+				<!--<tr>
+				<td class="no-data" colspan="6">
+				<span class="img"></span>
+				<span class="word">您的购物车中还没有商品，快</span>
+				<a class="word a">选购</a>
+				<span class="word">吧！</span>
+				</td>
+				</tr>-->
+			</table>
+			<div class="price-box">
+				<div class="right price-details">
+					<p><span class="left">商品总额</span><span id="Allprice" class="right" price="0">¥0.00</span></p>
+					<p><span class="left">折扣</span><span id="discount" class="right">¥0.00</span></p>
+					<p class="left line"></p>
+					<p><span class="left">应付</span><span id="priceSum" class="right">¥0.00</span></p>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="button-box">
+				<a id="Settlement" class="right">去结算</a>
+				<a class="right a">继续购物</a>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+
+		<div class="bottom">
+			<div class="bottom-list">
+				<ul>
+					<p>帮助说明</p>
+					<li><a>支付方式</a></li>
+					<li><a>配送说明</a></li>
+					<li><a>售后服务</a></li>
+					<li><a>付款帮助</a></li>
+				</ul>
+				<ul>
+					<p>Flyme</p>
+					<li><a>开放平台</a></li>
+					<li><a>固件下载</a></li>
+					<li><a>软件商店</a></li>
+					<li><a>查找手机</a></li>
+				</ul>
+				<ul>
+					<p>关于我们</p>
+					<li><a>关于魅族</a></li>
+					<li><a>加入我们</a></li>
+					<li><a>联系我们</a></li>
+					<li><a>法律声明</a></li>
+				</ul>
+				<ul>
+					<p>关注我们</p>
+					<li><a>新浪微博</a></li>
+					<li><a>腾讯微博</a></li>
+					<li><a>QQ空间</a></li>
+					<li><a>官方微信</a></li>
+				</ul>
+				<div class="left contact">
+					<p>24小时全国服务热线</p>
+					<p class="phoneNum">400-788-3333</p>
+					<a> 24小时在线客服</a>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="foot">
+				<p>
+					©2016 Meizu Telecom Equipment Co., Ltd. All rights reserved. 
+					<a>备案号：粤ICP备13003602号-2 </a>
+					<a>经营许可证编号：粤B2-20130198</a>
+					<a>营业执照</a>
+					<a><img src="../img/button3.png"/></a>
+					<a><img src="../img/button4.png"/></a>
+					<a><img src="../img/button5.png"/></a>
+				</p>
+			</div>
+		</div>
+	</body>
+	<script type="text/javascript" src="../js/jquery_1.11.3.min.js" ></script>
+	<script type="text/javascript" src="../js/jquery.cookie.js" ></script>
+	<script type="text/javascript" src="../js/common.js" ></script>
+	<script type="text/javascript" src="../js/shopCar.js" ></script>
+</html>

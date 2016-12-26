@@ -1,0 +1,173 @@
+{
+    "error_code": 200,
+    "reason": "请求成功！",
+    "result": {
+        "mx": [
+            {
+            	"cid":0,
+            	"pid": 1,
+            	"name":"魅族MX6",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_mx6.png",
+            	"price":1999
+            },
+            {
+            	"cid":0,
+            	"pid": 4,
+            	"name":"魅族MX5",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_mx5.png",
+            	"price":1499
+            },
+            {
+            	"cid":0,
+            	"pid": 19,
+            	"name":"魅族MX5e 经典版",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_mx5e.png",
+            	"price":1499
+            }
+		],
+		"pro":[
+			{
+            	"cid":0,
+            	"pid": 2,
+            	"name":"魅族PRO 6",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_pro6.png",
+            	"price":2299,
+            	"del":2499
+            },
+            {
+            	"cid":0,
+            	"pid": 3,
+            	"name":"魅族PRO 5",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_pro5.png",
+            	"price":2199
+            }
+		],
+		"meilan": [
+            {
+            	"cid":0,
+            	"pid": 7,
+            	"name":"魅蓝 U10",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_u10.png",
+            	"price":999
+            },
+            {
+            	"cid":0,
+            	"pid": 5,
+            	"name":"魅蓝 Max",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_max.png",
+            	"price":1699
+            },
+            {
+            	"cid":0,
+            	"pid": 6,
+            	"name":"魅蓝 U20",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_u20.png",
+            	"price":1099
+            },
+            {
+            	"cid":0,
+            	"pid": 10,
+            	"name":"魅蓝 E",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_E.png",
+            	"price":1299
+            },
+            {
+            	"cid":0,
+            	"pid": 8,
+            	"name":"魅蓝3s",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_3s.png",
+            	"price":699
+            },
+            {
+            	"cid":0,
+            	"pid": 11,
+            	"name":"魅蓝 note3",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_note3.png",
+            	"price":799
+            }
+		],
+		"peijian": [
+            {
+            	"cid":1,
+            	"pid": 15,
+            	"name":"魅族 EP51蓝牙运动耳机",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_EP51.png",
+            	"price":269
+            },
+            {
+            	"cid":1,
+            	"pid": 16,
+            	"name":"魅族 HD50 头戴式耳机",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_HD50.png",
+            	"price":399
+            },
+            {
+            	"cid":1,
+            	"pid": 12,
+            	"name":"魅族 休闲旅行双肩包",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_bag.png",
+            	"price":199
+            },
+            {
+            	"cid":1,
+            	"pid": 18,
+            	"name":"魅族移动电源（标准版）",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_battery(standard).png",
+            	"price":99
+            },
+            {
+            	"cid":1,
+            	"pid": 19,
+            	"name":"魅族 Lifeme BTS30 蓝牙音箱",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_BTS30.png",
+            	"price":399
+            }
+		],
+		"yingjian": [
+            {
+            	"cid":2,
+            	"pid": 27,
+            	"name":"魅族智能路由器",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_router.png",
+            	"price":99
+            },
+            {
+            	"cid":2,
+            	"pid": 20,
+            	"name":"迅雷下载宝 TB01",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_TB01.png",
+            	"price":99,
+            	"del":159
+            },
+            {
+            	"cid":2,
+            	"pid": 21,
+            	"name":"航嘉MINI-MX2 USB扩展转换器",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_MINI-MX2.png",
+            	"price":28
+            },
+            {
+            	"cid":2,
+            	"pid": 22,
+            	"name":"极路客G1 智能行车记录仪",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_G1.png",
+            	"price":299
+            },
+            {
+            	"cid":2,
+            	"pid": 23,
+            	"name":"北通阿修罗游戏手柄",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_handle.png",
+            	"price":148,
+            	"del":158
+            },
+            {
+            	"cid":2,
+            	"pid": 24,
+            	"name":"罗马仕AC10快充适配器",
+            	"img_src":"../img/item_img/nav_menu/nav_menu_AC10.png",
+            	"price":39
+            }
+		]
+	}
+}

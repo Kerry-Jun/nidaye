@@ -1,0 +1,28 @@
+{
+    "error_code": 200,
+    "reason": "请求成功！",
+    "result": {
+        "phoneList": [
+            {
+            	"cid":0,
+            	"pid": 1,
+            	"name":"MX6"
+            },
+            {
+            	"cid":0,
+            	"pid": 2,
+            	"name":"PRO 6"
+            },
+            {
+            	"cid":0,
+            	"pid": 10,
+            	"name":"魅族 E"
+            },
+            {
+            	"cid":0,
+            	"pid": 8,
+            	"name":"魅族 3s"
+            }
+		]
+	}
+}

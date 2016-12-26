@@ -1,0 +1,139 @@
+@charset "utf-8";
+		body {
+			margin: 0;
+			padding: 0;
+		}
+		
+		#banner {
+			position: relative;
+			margin-top: -1px;
+			height: 761px;
+			width: 100%;
+			overflow: hidden;
+		}
+		#banner ul {
+			position: absolute;
+			margin: 0;
+			padding: 0;
+			left: 0;
+			width: auto;
+			width: 10000px\0;
+			height: auto;
+			display: flex;
+			display: block\0;
+			justify-content: flex-start;
+		}
+		#banner li {
+			float: left\0;
+			position: relative;
+			margin: 0;
+			padding: 0;
+			height: 761px;
+			width: 100%;
+			width: 1236px\0;
+			list-style: none;
+		}
+		#banner .first {
+			left: 0;
+			top: 0;
+		}
+		#banner p {
+			margin: 0;
+			padding: 0;
+			z-index: 5;
+			width: 39px;
+			height: 50px;
+			margin-top: -25px;
+			border-radius: 4px;
+			transition: all .3s;
+		}
+		#banner .left {
+			position: absolute;
+			left: 5px;
+			top: 50%;
+			cursor: pointer;
+			background: url(../img/back5.png) no-repeat 0px -255px;
+		}
+		#banner .right {
+			position: absolute;
+			right: 5px;
+			top: 50%;
+			cursor: pointer;
+			background: url(../img/back5.png) no-repeat -41px -255px;
+		}
+		#banner .active {
+			z-index: 2;
+		}
+		#banner div {
+			z-index: 999;
+			justify-content: center;
+			position: absolute;
+			left: 0;
+			text-align: center;
+			bottom: 10px;
+			width: 100%;
+		}
+		#banner div span {
+			display: inline-block;
+			margin: 10px;
+			border-radius: 50%;
+			width: 10px;
+			height: 10px;
+			background: #aaa;
+			cursor: pointer;
+			transition: all .3s;
+		}
+		#banner div span:hover {
+			background: #FC2200!important;
+		}
+		#banner .red {
+			background: #FC2200;
+		}
+#banner .a {
+	display: block;
+	position: absolute;
+}
+/*		
+
+#banner .aa {
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+
+#banner .a1 {
+	top: 424px;
+    left: 90px;
+    width: 140px;
+    height: 54px;
+}
+#banner .a2 {
+	top: 424px;
+    left: 251px;
+    width: 140px;
+    height: 54px;
+}
+#banner .a3 {
+	top: 438px;
+    left: 10px;
+    width: 157px;
+    height: 64px;
+}
+#banner .a4 {
+	top: 438px;
+    left: 180px;
+    width: 157px;
+    height: 64px;
+}
+#banner .a5 {
+	top: 438px;
+    left: 61px;
+    width: 150px;
+    height: 55px;
+}
+#banner .a6 {
+	top: 438px;
+    left: 226px;
+    width: 150px;
+    height: 55px;
+}*/

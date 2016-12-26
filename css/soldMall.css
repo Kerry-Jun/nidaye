@@ -1,0 +1,266 @@
+@charset "utf-8";
+#banner {
+	width: 100%;
+	height: 480px;
+}
+
+#banner .div {
+	display: none;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+	height: 100%;
+	background-size: cover;
+}
+#banner .div a {
+	z-index: 1;
+	position: absolute;
+	left: 12px;
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+#banner .first {
+	display: block;
+}
+#span-box {
+	display: block;
+	z-index: 10;
+	position: absolute;
+	left: 50%;
+	bottom: 0;
+	margin-left: -67px;
+	height: 20px;
+	width: auto;
+	
+}
+#span-box span {
+	display: block;
+	margin: 0 6px;
+	float: left;
+	background-color: transparent;
+    border: 1px solid silver;
+    height: 9px;
+    width: 9px;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all .2s linear;
+}
+#span-box .first {
+	background-color: #00C3F5;
+	border-color: #00C3F5 ;
+}
+#span-box span:hover {
+	background-color: #00C3F5;
+	border-color: #00C3F5 ;
+}
+#left-nav {
+	box-sizing: border-box;
+	z-index: 20;    
+	padding: 12px 0;
+	left: 12px;
+	height: 100%;
+	background: rgba(248,247,247,.8);
+	background: rgb(248,247,247)\0;
+}
+#left-nav li {
+	position: relative;
+	display: block;
+    height: 57px;
+    line-height: 57px;
+}
+#left-nav li:hover {
+	background-color: #fff;
+}
+#left-nav li:hover .item-list-box {
+	display: block;
+}
+#left-nav a {
+	display: block;
+	box-sizing: border-box;
+	padding: 0 30px;
+    width: 184px;
+    color: #3a3a3a;
+    font-size: 14px;
+    display: block;
+    height: 100%;
+    font-family: Helvetica,Tahoma,Arial,"Hiragino Sans GB","Microsoft YaHei",SimSun,Heiti,sans-serif;
+}
+.item-list-box {
+	box-sizing: border-box;
+	display: none;
+	z-index: 40;
+	height: 480px;
+	top: -69px;
+	left: 184px;
+	font-size: 14px;
+	width: 680px;
+	background: #fff;
+}
+#left-nav .box2 {
+	top: -126px;
+}
+#left-nav .box3 {
+	top: -183px;
+}
+#left-nav .box4 {
+	top: -240px;
+}
+#left-nav .box5 {
+	top: -297px;
+}
+#left-nav .box6 {
+	top: -354px;
+}
+#left-nav .box7 {
+	top: -411px;
+}
+#left-nav .item-list-box .box-list {
+	display: block;
+	padding-right: 20px;
+	padding-top: 50px;
+	padding-left: 20px;
+	box-sizing: border-box;
+	width: 360px;
+	height: 100%;
+}
+#left-nav .item-list-box .right {
+	display: block;
+	padding: 0;
+	width: auto;
+	padding-right: 20px;
+}
+#left-nav .item-list-box ul {
+	float: left;
+	width: 160px;
+	padding-bottom: 20px;
+}
+#left-nav .item-list-box ul li {
+	height: auto;
+}
+#left-nav .item-list-box ul a {
+	display: table;    
+	width: 160px;
+    margin-bottom: 22px;
+    padding: 5px 0;
+}
+#left-nav .item-list-box ul a:hover {
+	color: #00C3F5;
+}
+#left-nav .item-list-box ul a img {
+	float: left;
+	margin-right: 6px;
+	width: 50px;
+    vertical-align: middle;
+}
+#left-nav .item-list-box ul a span {
+	display: table-cell;
+	width: 100px;
+    line-height: 18px;
+    vertical-align: middle;
+}
+#hot {
+	position: relative;
+	margin: 30px auto;
+	border: 1px solid #E5E5E5;
+	width: 98%;
+	height: 340px;
+	overflow: hidden;
+}
+#hot .carousel {
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 200%;
+	height: 340px;
+}
+#hot .carousel a {
+	box-sizing: border-box;
+	display: block;
+	float: left;
+	border-right: 1px solid #E5E5E5;
+	height: 100%;
+	text-align: center;
+	width: 10%;
+}
+#hot .carousel a img {
+	padding-top: 36px;
+	width: 180px;
+}
+#hot .carousel a .p1 {
+	margin-top: 30px;
+	font-size: 14px;
+	color: #515151;
+}
+#hot .carousel a .p2 {
+	font-size: 12px;
+	color:#FC2200;
+}
+
+#hot .carousel a .p3 {
+	font-size: 16px;
+	color:#FC2200;
+}
+#hot .carousel a .p3 span {
+	padding-right: 8px;
+	font-size: 12px;
+}
+
+.phone-box {
+	padding: 30px 0;
+	width: 100%;
+	height: auto;
+	background: #f5f5f5;;
+}
+
+#slod-list {
+	margin: 0 auto;
+	width: 98%;
+	height: 742px;
+}
+#slod-list .first {
+	border: 0;
+}
+#slod-list .first img {
+	padding: 0;
+	width: 100%;
+	height: 338px;
+}
+#slod-list a {
+	box-sizing: border-box;
+	display: block;
+	float: left;
+	margin-right: 6px;
+	margin-bottom: 6px;
+	width: 19%;
+	height: 338px;
+	text-align: center;
+	background: #fff;
+	transition: all .5s; 
+}
+#slod-list a img {
+	padding-top: 40px;
+	width: 180px;
+}
+#slod-list a:hover {
+	transform: translateY(-8px);
+	box-shadow: 0px 10px 26px 1px #999;
+}
+#slod-list .p1 {
+	margin-top: 20px;
+	font-size: 14px;
+	color: #515151;
+}
+#slod-list .p2 {
+	color: #FC2200;
+}
+#slod-list .p3 {
+	font-size: 16px;
+	color: #FC2200;
+}
+#slod-list .p3 span {
+	padding-right: 6px;
+	font-size: 12px;
+	color: firebrick;
+}

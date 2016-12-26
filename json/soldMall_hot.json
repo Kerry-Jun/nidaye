@@ -1,0 +1,84 @@
+{
+	"error_code": 200,
+	"reason": "请求成功！",
+	"result": {
+		"itemList": [
+			{
+				"details": [
+					{
+						"cid": 0,
+						"pid": 1,
+						"name": "魅族 MX6",
+						"describe":"12期免息 赠保护套 3G+32G版玫瑰金仅需1799元",
+						"price":1999,
+						"img_src": "../img/item_img/mx6/mx6_item_head_gold_big1.jpg"
+					},{
+						"cid": 1,
+						"pid": 18,
+						"name": "魅族移动电源（标准版）",
+						"describe": "素雅百搭 颜值典范",
+						"price":99,
+						"img_src": "../img/item_img/battery(standard)/battery(standard)_item_head_garyWhite_big1.jpg"
+					},{
+						"cid": 1,
+						"pid": 13,
+						"name": "Loop Jacket保护套（MX6）",
+						"describe": "个性表盘 随心搭配",
+						"price":99,
+						"img_src": "../img/item_img/smartCover/smartCover_item_head_white_big1.jpg"
+					}, {
+						"cid": 0,
+						"pid": 4,
+						"name": "魅族 MX5",
+						"describe": "快充金属旗舰 指纹识别",
+						"price":1499,
+						"img_src": "../img/item_img/mx5/mx5_item_head_gray_big1.jpg"
+					}, {
+						"cid": 2,
+						"pid": 25,
+						"name": "铭魔蓝牙版自拍杆",
+						"describe": "全新升级补光美颜靓肤蓝牙续航30天",
+						"price":69,
+						"img_src": "../img/item_img/phoneHandle/phoneHandle_item_head_big1.jpg"
+					}, {
+						"cid": 0,
+						"pid": 6,
+						"name": "魅蓝 U20",
+						"describe": "曲面高颜值 指纹加美颜 支持花呗分期",
+						"price":1099,
+						"img_src": "../img/item_img/u20/u20_item_head_black_big1.jpg"
+					},{
+						"cid": 1,
+						"pid": 12,
+						"name": "魅族 休闲旅行双肩包",
+						"describe": "曲面一体式设计 多功能隔层",
+						"price":199,
+						"img_src": "../img/item_img/bag/bag_item_head_gray_big1.jpg"
+					}, {
+						"cid": 0,
+						"pid": 8,
+						"name": "魅蓝3s",
+						"describe": "10月10日限量开售",
+						"price":699,
+						"img_src": "../img/item_img/3s/3s_item_head_gold_big1.jpg"
+					},{
+						"cid": 1,
+						"pid": 15,
+						"name": "魅族 EP51蓝牙运动耳机",
+						"describe": "轻装上阵 乐享动听",
+						"price":269,
+						"img_src": "../img/item_img/EP51/EP51_item_head_white_big1.jpg"
+					}, {
+						"cid": 1,
+						"pid": 16,
+						"name": "魅族HD50 头戴式耳机",
+						"describe": "附赠防水耳机包",
+						"price":399,
+						"img_src": "../img/item_img/HD50/HD50_item_head_red_big1.jpg"
+					}
+				]
+			}
+		]
+	}
+}
+

@@ -1,0 +1,79 @@
+@charset "utf-8";
+.header {
+	width: 100%;
+    text-align: center;
+    margin: 0px auto;
+    padding: 0px 20px;
+    font-size: 32px;
+    line-height: 99px;
+    height: 99px;
+}
+.main {
+	margin-top: 40px;
+	width: 1000px;
+	color: #515151;
+}
+.line15 {
+	height: 15px;
+}
+#btm {
+	position: static;
+	margin-top: 30px;
+}
+.word-box {
+	padding: 10px 40px;
+	font-size: 14px;
+}
+.word-box div {
+	font-size: 13px;
+	line-height: 20px;
+	text-indent: 2em;    
+	letter-spacing: 1px;
+}
+.bigparam {
+    padding-left: 2em;
+}
+.head ul {
+	display: inline-block;
+	margin-left: 60px;
+	height: auto;
+	overflow: hidden;
+}
+.head li {
+	list-style: none;
+	float: left;
+    height: 24px;
+    margin-right: 50px;
+}
+.head li a {
+	display: block;
+	height: 24px;
+	width: 73px;
+    background: url(../img/base.png) no-repeat;
+}
+.head li .a1 {
+    background-position: -168px 0px;
+}
+.head li .a2 {
+	width: 37px;
+    background-position: -288px 0px;
+}
+.head li .a3 {
+	width: 55px;
+    background-position: -374px 0px;
+}
+.head li .a4 {
+	width: 60px;
+    background-position: -473px 0px;
+}
+.head li .a5 {
+	width: 37px;
+    background-position: -577px 0px;
+}
+.head li .a6 {
+	width: 37px;
+    background-position: -661px 0px;
+}
+.head li .a:hover {
+	background-position-y: -27px;
+}

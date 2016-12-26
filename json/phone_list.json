@@ -1,0 +1,120 @@
+{
+    "error_code": 200,
+    "reason": "请求成功！",
+    "result": {
+        "phoneList1": [
+            {
+            	"cid":0,
+            	"pid": 1,
+            	"name":"MX6",
+            	"img_src":"img/mx6_small.png"
+            },
+            {
+            	"cid":0,
+            	"pid": 2,
+            	"name":"pro6",
+            	"img_src":"img/pro6_small.png"
+            },
+            {
+            	"cid":0,
+            	"pid": 3,
+            	"name":"pro5",
+            	"img_src":"img/pro5_small.png"
+            },
+            {
+            	"cid":0,
+            	"pid": 4,
+            	"name":"MX5",
+            	"img_src":"img/mx5_small.png"
+            }
+		],
+		"phoneList2": [
+            {
+            	"cid":0,
+            	"pid": 5,
+            	"name":"魅蓝Max",
+            	"img_src":"img/魅蓝MAX_small.png"
+            },
+            {
+            	"cid":0,
+            	"pid": 6,
+            	"name":"魅蓝U20",
+            	"img_src":"img/魅蓝U20_small.png"
+            },
+            {
+            	"cid":0,
+            	"pid": 7,
+            	"name":"魅蓝U10",
+            	"img_src":"img/魅蓝U10_small.png"
+            },
+            {
+            	"cid":0,
+            	"pid": 8,
+            	"name":"魅蓝3s",
+            	"img_src":"img/魅蓝3s_small.png"
+            },
+            {
+            	"cid":0,
+            	"pid": 9,
+            	"name":"魅蓝3",
+            	"img_src":"img/魅蓝3_small.png"
+            },
+            {
+            	"cid":0,
+            	"pid": 10,
+            	"name":"魅蓝E",
+            	"img_src":"img/魅蓝E_small.png"
+            },
+            {
+            	"cid":0,
+            	"pid": 11,
+            	"name":"魅蓝note3",
+            	"img_src":"img/魅蓝note3_small.png"
+            }
+		],
+		"List3": [
+            {
+            	"cid":1,
+            	"pid": 12,
+            	"name":"魅族双肩包",
+            	"img_src":"img/魅族双肩包_small.png"
+            },
+            {
+            	"cid":1,
+            	"pid": 13,
+            	"name":"环窗智能保护套",
+            	"img_src":"img/保护套_small.png"
+            },
+            {
+            	"cid":2,
+            	"pid": 14,
+            	"name":"路由器极速版",
+            	"img_src":"img/路由器_small.png"
+            },
+            {
+            	"cid":1,
+            	"pid": 15,
+            	"name":"蓝牙运动耳机",
+            	"img_src":"img/蓝牙耳机_small.png"
+            },
+            {
+            	"cid":1,
+            	"pid": 16,
+            	"name":"头戴式耳机",
+            	"img_src":"img/头戴耳机_small.png"
+            },
+            {
+            	"cid":1,
+            	"pid": 17,
+            	"name":"移动电源快充版",
+            	"img_src":"img/移动电源快充版_small.png"
+            },
+            {
+            	"cid":1,
+            	"pid": 18,
+            	"name":"移动电源标准版",
+            	"img_src":"img/移动电源标准版_small.png"
+            }
+		]
+	}
+}

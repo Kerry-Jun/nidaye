@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>我的订单</title>
+		<link rel="stylesheet" href="../css/common.css" />
+		<link rel="stylesheet" href="../css/item.css" />
+		<link rel="stylesheet" href="../css/myOrder.css" />
+	</head>
+	<body>
+		<div class="head">
+			<div class="left left-box">
+				<a class="a" href="../index.html">魅族官网</a>
+				<a class="a" href="soldmall.html">魅族商城</a>
+				<a class="a" href="../index.html">Flyme</a>
+				<a class="a" href="../index.html">专卖店</a>
+				<a class="a" href="../index.html">服务</a>
+				<a class="a" href="../index.html">社区</a>
+			</div>
+			<div class="right right-box">
+				<a class="a">我的收藏<div class="rel icon"><span class="abs arr"></span>new</div></a>
+				<a class="a" href="myOrder.html">我的订单</a>
+				<a id="toShopCar" class="a" href="shopCar.html">我的购物车</a>
+				<a id="login" class="a" href="login.html">登录</a>
+				<a class="a" href="register.html">注册</a>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div class="rel nav">
+			<a class="left logo" href="../index.html"><img src="../img/head.png"/></a>
+			<ul class="menu">
+				<div class="li-box">
+					<li class="li" index="0"><a class="a">PRO手机</a></li>
+					<li class="li" index="1"><a class="a">魅蓝手机</a></li>
+					<li class="li" index="2"><a class="a">MX手机</a></li>
+					<li class="li" index="3"><a class="a">精选配件</a></li>
+					<li class="li" index="4"><a class="a">智能硬件</a></li>
+					<div class="clear"></div>
+					<div class="abs menu-list">
+						<div class="list list1">
+							<ul>
+								<div class="clear"></div>
+							</ul>
+						</div>
+						<div class="list list2">
+							<ul>
+								<div class="clear"></div>
+							</ul>
+						</div>
+						<div class="list list3">
+							<ul>
+								<div class="clear"></div>
+							</ul>
+						</div><div class="list list4">
+							<ul>
+								<div class="clear"></div>
+							</ul>
+						</div>
+						<div class="list list5">
+							<ul>
+								<div class="clear"></div>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</ul>
+		</div>
+		
+		<div class="main">
+			<p class="hrefP"><a href="../index.html">首页</a>><a href="person.html?">我的商城</a>><a class="pointer" href="shopCar.html?">我的订单</a></p>
+			<div class="left nav-box">
+				<ul>
+					<p>订单中心<i class="iconfont first">&#xe622;</i></p>
+					<li><a class="pointer">我的订单</a></li>
+					<li><a>我的回购单</a></li>
+					<li><a>我的意外保</a></li>
+				</ul>
+				<ul>
+					<p class="p">个人中心<i class="iconfont">&#xe7d6;</i></p>
+					<li><a>地址管理</a></li>
+					<li><a>我的收藏</a></li>
+					<li><a>消息提醒</a></li>
+					<li><a>建议反馈</a></li>
+				</ul>
+				<ul>
+					<p class="p">资产中心<i class="iconfont">&#xe64e;</i></p>
+					<li><a>我的优惠券</a></li>
+					<li><a>我的红包</a></li>
+					<li><a>我的回购券</a></li>
+				</ul>
+				<ul>
+					<p class="p">服务中心<i class="iconfont">&#xe70e;</i></p>
+					<li><a>退款/退换货跟踪</a></li>
+					<li><a>意外保</a></li>
+					<li><a>以旧换新</a></li>
+				</ul>
+			</div>
+			<div class="left carMain">
+				<div class="rel btu-list">
+					<a class="btu pointer">全部订单</a>
+					<i class="line"></i>
+					<a class="btu">待付款</a>
+					<i class="line"></i>
+					<a class="btu">待发货</a>
+					<i class="line"></i>
+					<a class="btu">已发货</a>
+					<i class="line"></i>
+					<a class="btu">其他</a>
+					<a class="right">找不到订单？用手机号查询试试>></a>
+					<div class="clear"></div>
+					<span class="abs bottom-line"></span>
+				</div>
+				<ul class="title">
+					<li class="details">订单明细</li>
+					<li class="price">实付金额</li>
+					<li class="state">状态</li>
+					<li class="elc">其他</li>
+					<div class="clear"></div>
+				</ul>
+				<div id="carList">
+					<!--<div class="item-list">
+						<p class="list-head">
+							<span class="key-name">下单时间：</span>
+							<span class="info time">2016-10-10 18:08:46</span>
+							<span class="key-name2">订单号：</span>
+							<span class="info number">21101046081849261041</span>
+						</p>
+						<ul>
+							<li class="details">
+								<img class="left" src="../img/item_img/mx6/mx6_item_head_gold_small1.jpg" />
+								<p class="left">
+									<a>魅蓝 U20 全网通公开版 星空黑 16GB</a>
+									<span>￥1099 ×1</span>
+								</p>
+								<div class="clear"></div>
+							</li>
+							<li class="price">
+								<p>￥    1099</p>
+							</li>
+							<li class="state">
+								<p>待付款</p>
+							</li>
+							<li class="elc">
+								<p class="p1"><a>立即付款</a></p>
+								<p><a>取消订单</a></p>
+								<p><a>查看详情</a></p>
+							</li>
+							<div class="clear"></div>
+						</ul>
+					</div>-->
+					<div id="no-data">
+						您还没有任何未付款或已取消的订单哦！
+						<a href="soldMall.html">去抢购</a>
+					</div>
+				</div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+		<div class="bottom">
+			<div class="bottom-list">
+				<ul>
+					<p>帮助说明</p>
+					<li><a>支付方式</a></li>
+					<li><a>配送说明</a></li>
+					<li><a>售后服务</a></li>
+					<li><a>付款帮助</a></li>
+				</ul>
+				<ul>
+					<p>Flyme</p>
+					<li><a>开放平台</a></li>
+					<li><a>固件下载</a></li>
+					<li><a>软件商店</a></li>
+					<li><a>查找手机</a></li>
+				</ul>
+				<ul>
+					<p>关于我们</p>
+					<li><a>关于魅族</a></li>
+					<li><a>加入我们</a></li>
+					<li><a>联系我们</a></li>
+					<li><a>法律声明</a></li>
+				</ul>
+				<ul>
+					<p>关注我们</p>
+					<li><a>新浪微博</a></li>
+					<li><a>腾讯微博</a></li>
+					<li><a>QQ空间</a></li>
+					<li><a>官方微信</a></li>
+				</ul>
+				<div class="left contact">
+					<p>24小时全国服务热线</p>
+					<p class="phoneNum">400-788-3333</p>
+					<a> 24小时在线客服</a>
+				</div>
+				<div class="clear"></div>
+			</div>
+			<div class="foot">
+				<p>
+					©2016 Meizu Telecom Equipment Co., Ltd. All rights reserved. 
+					<a>备案号：粤ICP备13003602号-2 </a>
+					<a>经营许可证编号：粤B2-20130198</a>
+					<a>营业执照</a>
+					<a><img src="../img/button3.png"/></a>
+					<a><img src="../img/button4.png"/></a>
+					<a><img src="../img/button5.png"/></a>
+				</p>
+			</div>
+		</div>
+	</body>
+	<script type="text/javascript" src="../js/jquery_1.11.3.min.js" ></script>
+	<script type="text/javascript" src="../js/jquery.cookie.js" ></script>
+	<script type="text/javascript" src="../js/common.js" ></script>
+	<script type="text/javascript" src="../js/myOrder.js" ></script>
+</html>

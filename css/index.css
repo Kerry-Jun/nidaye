@@ -1,0 +1,440 @@
+@charset "utf-8";
+
+html,body,ul,li,div,span,a,p,img,dl,dt,dd,h3,h4,h5 {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body {
+	position: relative;
+	font: 12px/1.5 Helvetica,Tahoma,Arial,"Hiragino Sans GB","Microsoft YaHei",SimSun,Heiti,sans-serif;
+	color: #666;
+}
+a {
+	text-decoration: none!important;
+	color: #666;
+	font-size: 12px;
+	cursor: pointer;
+}
+li {
+	list-style: none;
+}
+div {
+	height: auto;
+	overflow: hidden;
+}
+.nav-back {
+	background: #fff;
+}
+.nav {
+	z-index: 50;
+	position: absolute;
+	width: 100%;
+	height: auto;
+	overflow: visible;
+}
+.meun {
+	color: #333!important;
+}
+.moveOn {
+	float: left\0;
+	display: flex;
+	justify-content: space-around;
+    left: 532px;
+    width: 325px;
+    height: 80px;
+}
+.moveOn a {
+	float: left\0;
+}
+.moveOn:hover #item-list {
+	display: block\0;
+}
+.nav .head {
+	float: left;
+	margin-left: 20px;
+}
+.nav .head a {
+	display: block;
+	margin: 30px 0;
+	padding: 10px 60px;
+	background: url(../img/head.png) no-repeat center;
+}
+.nav-list .ul > li {
+	float: left\0;
+}
+.nav-list .ul > li .white {
+	color: white;
+}
+.head .unchange {
+	background: url(../img/head.png) no-repeat center!important;
+}
+.nav .head .change {
+	border-color: white;
+	background: url(../img/head2.png) no-repeat center;
+}
+.nav .nav-list {
+	float: right;
+	overflow: visible;
+}
+.nav-list .ul {
+	display: flex;
+	justify-content: center;
+}
+.nav-list .ul > li a {
+	display: block;
+	padding: 0 24px;
+	height: 80px;
+	font-size: 14px;
+	line-height: 80px;
+	color: #333;
+	transition: all .2s;
+}
+.nav .nav-list .ul li a:hover {
+	color: #31a5e7!important;
+}
+#item-list {
+	display: none;
+	z-index: -2;
+    position: absolute;    
+    left: 0;
+    top: 80px;
+    padding-top: 20px;
+    border-bottom: 1px solid #aaa;
+    width: 100%;
+    height: 136px;
+    background: #fff
+}
+#item-list .pList {
+	position: absolute;
+	top: 0;
+	/*display: none;*/
+	justify-content: flex-start;
+	padding-left: 520px;
+	height: 100%;
+}
+#item-list .pList2 {
+	padding-left: 400px;
+}
+#item-list .pList3 {
+	padding-left: 380px;
+}
+#item-list .pList a {
+	display: block\0;
+	float: left\0;
+	align-items: center;
+	padding: 0 50px!important;
+	padding: 0 20px\0!important;
+	height: 100%!important;
+	width: auto;
+	text-align: center;
+	font-size: 12px;
+	/*opacity: 0;*/
+	transition: none!important;
+}
+#item-list .pList a p {
+	white-space: nowrap;
+}
+#item-list .pList a:hover {
+	opacity: 1!important;
+	transition: .3s !important;
+}
+#item-list .pList a:hover p {
+	color: #21A9E7!important;
+}
+#item-list .pList a p {
+	height: 34px;
+	line-height: 34px;
+	color: #333!important;
+	text-align: center;
+}
+#login {
+	z-index: 998;
+	position: relative;
+	width: 78px;
+	height: 58px;
+	
+}
+#login .login-img {
+	z-index: 1;
+	bottom: 6px;
+	left: 20px;
+	position: absolute;
+	padding: 12px;
+	background: url(../img/login.png) no-repeat center;
+	cursor: pointer;
+}
+.arr {
+	position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    font-size: 0;
+    display: inline-block;
+    border-width: 5px;
+    left: 48px;
+    top: 40px;
+	z-index: 999;
+    border-color: #aaa transparent transparent;
+    border-style: solid dashed dashed;
+}
+#login-box {
+	display: none;
+	z-index: -2;
+	right: 10px;
+	border: 1px solid #aaa;
+	border-top: 4px solid #1395E4;
+	border-bottom: 0px;
+	position: absolute;
+	height: 70px;
+	width: 60px;
+	background: #fff;
+	overflow: visible;
+}
+#login-list,#login-true {
+	display: none;
+	z-index: -3;    
+	top: 69px;
+    right: 10px;
+	position: absolute;
+	padding: 20px;
+	border: 1px solid #aaa;
+	width: 155px;
+	height: 208px;
+	background: #fff;
+}
+#login-true {
+	height: 247px;
+}
+#login-list p ,#login-true p {
+	height: auto;
+	width: 100%;
+}
+#login-list a ,#login-true a {
+	display: inline;
+	padding: 0;
+	line-height: 14px;
+	font-size: 12px;
+	height: 14px;
+	color: #333!important;
+}
+#login-list span ,#login-true span {
+	color: #999;
+}
+#login-list #register {
+	color:#21A9E7!important;
+}
+#login-list p .btn-info ,#login-true p .btn-info {
+	display: block;
+	padding: 8px 30px;
+	border-radius: 4px;
+	height: auto!important;
+	color: #fff!important;
+    background-color: #3db1fa;
+}
+#login-true p .btn-info {
+	margin-top: 10px;
+}
+#login-list p .btn-info:hover ,#login-true p .btn-info:hover {
+	background: #1395E4;
+}
+#login-list .p ,#login-true .p {
+	margin-top: 15px;
+}
+#login-true .p a:hover {
+	color: #21A9E7!important;
+} 
+#login-list .p a:hover {
+	color: #21A9E7!important;
+}
+.col-lg-4 {
+	display: block;
+	width: 33.3%\0;
+	float: left\0;
+	margin-top: 1px;
+	border: 1px solid #eee;
+	overflow: hidden;
+}
+.col-lg-4 img {
+	visibility: hidden;
+}
+.col1 {
+	background: url(../img/pic1.jpg) no-repeat center;
+}
+.col2 {
+	background: url(../img/pic2.jpg) no-repeat center;
+}
+.col3 {
+	background: url(../img/pic3.png) no-repeat center;
+}
+
+.bottom {
+	padding: 60px 0 15px;
+}
+.bottom .col {
+	
+}
+.bottom .col-lg-9 > .first {
+	padding-left: 0;
+}
+.bottom .col p {
+	padding: 10px 0;
+    font-size: 14px;
+	font-weight: bold;
+	color: #666;
+}
+.bottom .col li {
+	height: 27px;
+	line-height: 27px;
+}
+.bottom .col li a {
+	font-size: 12px;
+}
+.col-lg-offset-1 {
+	display:flex;
+	justify-content: flex-end;
+	flex-flow: wrap;
+}
+.col-lg-offset-1 .p1 {
+	padding-top: 10px;
+	font-size: 12px;
+	font-weight: 700;
+	color: #999;
+}
+.col-lg-offset-1 .p2 {
+	font-size: 28px;	
+	color: #666;
+} 
+.col-lg-offset-1 a {
+	display: block;
+	padding-right:14px ;
+	width: 165px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 14px;
+    margin-top: 15px;
+	text-decoration: none;
+	text-align: right;
+	color: #fff;
+	background: url(../img/button1.png) no-repeat 22px center #3db1fa;
+}  
+.line {
+	margin: 20px 15px 10px;
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+.bottom-list {
+	width: 100%\0;
+	height: auto\0;
+	overflow: hidden\0;
+}
+.col-lg-9 {
+	float: left\0;
+	width: 939px\0;
+}
+.col-lg-8 {
+	color: #999;
+}
+.col-lg-offset-1 {
+	margin-left: 0\0;
+	float:right\0;
+	width: 313px\0;
+}
+.col-lg-offset-1 p {
+	text-align: right\0;
+}
+.col-lg-offset-1 a {
+	float: right\0;
+}
+.col-lg-3 {
+	float: left\0;
+	width: 200px\0;
+}
+.col-lg-8 .span1 {
+	padding: 1px 0;
+	padding-left: 18px;
+	background: url(../img/button2.png) no-repeat left center;
+}
+.col-lg-8 .bottom-line {
+	padding: 0 14px;
+	color: #eee;
+}
+.col-lg-8 a {
+	color: #999;
+}
+.col-lg-8 a:hover {
+	color: #357EBD;
+}
+.col-lg-8 i > a {
+	padding: 4px 10px;
+	background: url(../img/button3.png) no-repeat center;
+}
+.col-lg-8 .i2 {
+	background: url(../img/button4.png) no-repeat center;
+}
+.col-lg-8 .i3 {
+	background: url(../img/button5.png) no-repeat center;
+}
+.col-lg-8 .i1:hover {
+	background: url(../img/button3-1.png) no-repeat center;
+}
+.col-lg-8 .i2:hover {
+	background: url(../img/button4-1.png) no-repeat center;
+}
+.col-lg-8 .i3:hover {
+	background: url(../img/button5-1.png) no-repeat center;
+}
+.lang {
+	padding-right: 10px;
+	background: url(../img/jiao.png) no-repeat right bottom;
+}
+.col-lg-8 p {
+	height: 24px;
+	line-height: 24px;
+}	
+.col-lg-offset-2 {
+	position: relative;
+	float: right;
+	display: flex;
+	justify-content: flex-end;
+	color: #999;
+	overflow: visible!important;
+}
+.col-lg-offset-2 .weixin {
+	position: absolute;
+	display: none;
+	right: -10px;
+    top: -220px;
+}
+.col-lg-offset-2 span {
+	padding-right: 10px;
+	line-height: 22px;
+}
+.col-lg-offset-2 i > a {
+	padding: 4px 12px;
+	background: url(../img/button6.png) no-repeat center;
+}
+.col-lg-offset-2 .bottom-line {
+	padding: 0 10px;
+	color: #eee;
+}
+.col-lg-offset-2 .i2 {
+	background: url(../img/button7.png) no-repeat center;
+}
+.col-lg-offset-2 .i3 {
+	background: url(../img/button8.png) no-repeat center;
+}
+.col-lg-offset-2 .i1:hover {
+	background: url(../img/button6-1.png) no-repeat center;
+}
+.col-lg-offset-2 .i2:hover {
+	background: url(../img/button7-1.png) no-repeat center;
+}
+.col-lg-offset-2 .i2:hover .weixin {
+	display: block;
+}
+.col-lg-offset-2 .i3:hover {
+	background: url(../img/button8-1.png) no-repeat center;
+}

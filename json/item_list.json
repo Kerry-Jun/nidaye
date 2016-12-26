@@ -1,0 +1,4457 @@
+
+{
+	"error_code": 200,             
+	"reason": "请求成功！",
+	"result": {
+		"itemList": [
+			{
+				"lid": 0,
+				"descrition": "手机清单",
+				"List": {
+					"1": {        
+						"details": {
+							"name": "魅族 MX6",
+							"describe": "12期免息 赠保护套 3G+32G版玫瑰金仅需1799元",
+							"price":1999,
+							"net": [
+								{
+									"type": "全网通公开版",
+									"has": 1
+								}, {
+									"type": "全网通版",
+									"has": 0
+								}
+							],
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "玫瑰金",
+									"img_src": "../img/item_img/mx6/mx6_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/mx6/mx6_item_head_rosegold_big1.jpg"
+										}, {
+											"src": "../img/item_img/mx6/mx6_item_head_rosegold_big2.jpg"
+										}, {
+											"src": "../img/item_img/mx6/mx6_item_head_rosegold_big3.jpg"
+										}, {
+											"src": "../img/item_img/mx6/mx6_item_head_rosegold_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/mx6/mx6_item_head_rosegold_small1.jpg"
+										}, {
+											"src": "../img/item_img/mx6/mx6_item_head_rosegold_small2.jpg"
+										}, {
+											"src": "../img/item_img/mx6/mx6_item_head_rosegold_small3.jpg"
+										}, {
+											"src": "../img/item_img/mx6/mx6_item_head_rosegold_small4.jpg"
+										}
+									],
+									"has": 1
+								}, {
+									"type": "香槟金",
+									"img_src": "../img/item_img/mx6/mx6_item_list2.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/mx6/mx6_item_head_gold_big1.jpg"
+										}, {
+											"src": "../img/item_img/mx6/mx6_item_head_gold_big2.jpg"
+										}, {
+											"src": "../img/item_img/mx6/mx6_item_head_gold_big3.jpg"
+										}, {
+											"src": "../img/item_img/mx6/mx6_item_head_gold_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/mx6/mx6_item_head_gold_small1.jpg"
+										}, {
+											"src": "../img/item_img/mx6/mx6_item_head_gold_small2.jpg"
+										}, {
+											"src": "../img/item_img/mx6/mx6_item_head_gold_small3.jpg"
+										}, {
+											"src": "../img/item_img/mx6/mx6_item_head_gold_small4.jpg"
+										}
+									],
+									"has": 1
+								}, {
+									"type": "星空灰",
+									"img_src": "../img/item_img/mx6/mx6_item_list3.png",
+									"has": 0
+								}
+							],
+							"version": [
+								{
+									"type_name":"内存容量",
+									"type": "32GB",
+									"price": 1999,
+									"has": 1
+								}, {
+									"type": "3G+32GB",
+									"price": 1799,
+									"has": 1
+								}
+							],
+							"package": [
+								{
+									"type": "官方标配",
+									"has": 1
+								}, {
+									"type": "魅力卡套餐 0元",
+									"img_src": "../img/item_img/mx6/mx6_item_package1.jpg",
+									"describe": "魅力卡-仅限广东地区使用",
+									"price": 0,
+									"has": 1
+								}, {
+									"type": "沃4G卡套餐 0元",
+									"img_src": "../img/item_img/mx6/mx6_item_package2.jpg",
+									"describe": "沃4G卡-新疆西藏不可用",
+									"price": 0,
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}, {
+									"type": "百城速达",
+									"point": 1
+								}, {
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"more": [
+								{
+									"cid":0,
+									"pid":2,
+									"img_src": "../img/item_img/pro6/pro6_item_list1.jpg",
+									"describe": "pro6 32G版 2299元"
+								}, {
+									"cid":0,
+									"pid":3,
+									"img_src": "../img/item_img/pro5/pro5_item_list1.jpg",
+									"describe": "Pro 5 购机送豪礼"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/mx6/mx6_item_details1.jpg"
+								}, {
+									"img_src": "../img/item_img/mx6/mx6_item_details2.jpg"
+								}, {
+									"img_src": "../img/item_img/mx6/mx6_item_details3.jpg"
+								}, {
+									"img_src": "../img/item_img/mx6/mx6_item_details4.jpg"
+								}, {
+									"img_src": "../img/item_img/mx6/mx6_item_details5.jpg"
+								}, {
+									"img_src": "../img/item_img/mx6/mx6_item_details6.jpg"
+								}, {
+									"img_src": "../img/item_img/mx6/mx6_item_details7.jpg"
+								}, {
+									"img_src": "../img/item_img/mx6/mx6_item_details8.jpg"
+								}, {
+									"img_src": "../img/item_img/mx6/mx6_item_details9.jpg"
+								}, {
+									"img_src": "../img/item_img/mx6/mx6_item_details10.jpg"
+								}, {
+									"img_src": "../img/item_img/mx6/mx6_item_details1.jpg"
+								}, {
+									"img_src": "../img/item_img/mx6/mx6_item_details12.jpg"
+								}, {
+									"img_src": "../img/item_img/mx6/mx6_item_details13.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "型号#MX6"
+									},{
+										"info": "尺寸#153.6*75.2*7.25mm"
+									},{
+										"info": "电池容量#3060mAh"
+									},{
+										"info": "重量#155g"
+									}
+								],
+								"screen":[
+									{
+										"info": "屏幕尺寸#5.5英寸"
+									},{
+										"info": "分辨率#1920×1080"
+									}
+								],
+								"ram": "运行内存#3GB/4GB",
+								"processor":[
+									{
+										"info": "CPU#Helio X20 处理器"
+									},{
+										"info": "GPU#ARM Mali-T880 图形处理器"
+									}
+								],
+								"net": "网络模式#双卡多模",
+								"Camera":[
+									{
+										"info": "前置摄像头#500万像素"
+									},{
+										"info": "后置摄像头#1200万像素"
+									}
+								],
+								"system": "系统版本#Flyme 5",
+								"include": [
+									{
+										"inc": "主机 x 1"
+									}, {
+										"inc": "电源适配器 x 1"
+									}, {
+										"inc": "保修证书 x 1"
+									}, {
+										"inc": "SIM卡顶针 x 1"
+									}, {
+										"inc": "数据线 x 1"
+									}
+								]
+							},
+							"FAQ": [
+								{
+									"Q": "MX6 的屏幕尺寸是多大？有哪几种颜色？机身材质？",
+									"A": "5.5 英寸，星空灰、月光银、香槟金、玫瑰金，金属一体机身。"
+								}, {
+									"Q": "MX6 是否支持指纹识别？",
+									"A": "支持 mTouch 2.1，响应速度达 0.2s 。"
+								}, {
+									"Q": "MX6 屏幕采用什么工艺？",
+									"A": "夏普 TDDI 屏幕显示触控一体技术，1080P。"
+								}, {
+									"Q": "MX6 是否支持 TF 扩展？",
+									"A": "不支持。"
+								}, {
+									"Q": "MX6 支持的网络有哪些？是否具备 VoLTE 语音通话技术？",
+									"A": "MX6 全网通版，即可满足中国移动、中国联通、中国电信三大运营商网络。支持 VoLTE 高清通话。"
+								}, {
+									"Q": "MX6 的 CPU 是用什么？",
+									"A": "Helio X20 十核处理器。"
+								}, {
+									"Q": "MX6 的运行内存是多少？",
+									"A": "4G 运行内存。"
+								}, {
+									"Q": "MX6 后置摄像头是多少像素？采用哪颗 CMOS？",
+									"A": "1200 万像素，索尼 IMX386。"
+								}, {
+									"Q": "MX6 后置摄像头是否搭载相位对焦技术？",
+									"A": "搭载 PDAF 高速相位对焦，F/2.0 大光圈。"
+								}, {
+									"Q": "MX6 的电池规格？是否支持 mCharge 安全快充？",
+									"A": "3060 mAh，支持mCharge 安全快充，75分钟即可充满。"
+								}
+							]
+						}
+					},
+					"2":{
+						"details": {
+							"name": "魅族PRO 6",
+							"describe": "27日10点起，最高享12免息，更有机会赢免单",
+							"price":2299,
+							"net": [
+								{
+									"type": "全网通公开版",
+									"has": 1
+								}
+							],
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "玫瑰金",
+									"img_src": "../img/item_img/pro6/pro6_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/pro6/pro6_item_head_rosegold_big1.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_rosegold_big2.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_rosegold_big3.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_rosegold_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/pro6/pro6_item_head_rosegold_small1.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_rosegold_small2.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_rosegold_small3.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_rosegold_small4.jpg"
+										}
+									],
+									"has": 1
+								}, {
+									"type": "香槟金",
+									"img_src": "../img/item_img/pro6/pro6_item_list2.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/pro6/pro6_item_head_gold_big1.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_gold_big2.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_gold_big3.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_gold_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/pro6/pro6_item_head_gold_small1.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_gold_small2.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_gold_small3.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_gold_small4.jpg"
+										}
+									],
+									"has": 1
+								}, {
+									"type": "月光银",
+									"img_src": "../img/item_img/pro6/pro6_item_list3.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/pro6/pro6_item_head_silver_big1.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_silver_big2.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_silver_big3.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_silver_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/pro6/pro6_item_head_silver_small1.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_silver_small2.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_silver_small3.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_silver_small4.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "星空黑",
+									"img_src": "../img/item_img/pro6/pro6_item_list4.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/pro6/pro6_item_head_black_big1.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_black_big2.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_black_big3.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_black_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/pro6/pro6_item_head_black_small1.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_black_small2.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_black_small3.jpg"
+										}, {
+											"src": "../img/item_img/pro6/pro6_item_head_black_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"version": [
+								{
+									"type_name":"内存容量",
+									"type": "32GB",
+									"price": 2299,
+									"has": 1
+								}
+							],
+							"package": [
+								{
+									"type": "官方标配",
+									"has": 1
+								}, {
+									"type": "魅力卡套餐 0元",
+									"img_src": "../img/item_img/pro6/pro6_item_package1.jpg",
+									"describe": "魅力卡-仅限广东地区使用",
+									"price": 0,
+									"has": 1
+								}, {
+									"type": "沃4G卡套餐 0元",
+									"img_src": "../img/item_img/pro6/pro6_item_package2.jpg",
+									"describe": "沃4G卡-新疆西藏不可用",
+									"price": 0,
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}, {
+									"type": "百城速达",
+									"point": 1
+								}, {
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"more": [
+								{
+									"cid":0,
+									"pid":1,
+									"img_src": "../img/item_img/mx6/mx6_item_list1.png",
+									"describe": "MX6 1999元送豪礼"
+								}, {
+									"cid":0,
+									"pid":3,
+									"img_src": "../img/item_img/pro5/pro5_item_list1.jpg",
+									"describe": "Pro 5 买即赠EP31耳机 2199元起"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/pro6/pro6_item_details1.jpg"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details2.jpg"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details3.jpg"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details4.jpg"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details5.jpg"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details6.jpg"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details7.jpg"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details8.jpg"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details9.png"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details10.png"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details11.png"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details12.png"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details13.png"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details14.png"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details15.png"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details16.png"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details17.png"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details19.png"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details20.png"
+								}, {
+									"img_src": "../img/item_img/pro6/pro6_item_details21.png"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "型号#PRO 6"
+									},{
+										"info": "尺寸#147.7×70.8×7.25mm"
+									},{
+										"info": "电池容量#2560mAh"
+									},{
+										"info": "重量#160g"
+									}
+								],
+								"screen":[
+									{
+										"info": "屏幕尺寸#5.2英寸"
+									},{
+										"info": "分辨率#1920×1080"
+									}
+								],
+								"ram": "运行内存#4GB",
+								"processor":[
+									{
+										"info": "CPU#Helio X25 处理器"
+									},{
+										"info": "GPU#ARM Mali-T880 图形处理器"
+									}
+								],
+								"net": "网络模式#双卡多模",
+								"Camera":[
+									{
+										"info": "前置摄像头#500万像素"
+									},{
+										"info": "后置摄像头#2116万像素"
+									}
+								],
+								"system": "系统版本#Flyme 5",
+								"include": [
+									{
+										"inc": "主机 x 1"
+									}, {
+										"inc": "电源适配器 x 1"
+									}, {
+										"inc": "保修证书 x 1"
+									}, {
+										"inc": "SIM卡顶针 x 1"
+									}, {
+										"inc": "数据线 x 1"
+									}, {
+										"inc": "ME-10耳机 x 1（仅限64G版本）"
+									}
+								]
+							},
+							"FAQ": [
+								{
+									"Q": "魅族PRO 6 的屏幕尺寸是多大？",
+									"A": "5.2 英寸大小，在保留单手握持手感的前提下，做到了显示效果和功耗控制的平衡。得益于自发光的特点，AMOLED 实现了每个像素单独控制，无需恒定背光，续航更持久；屏幕画面通透亮丽，色彩色度表现均匀。更提供近似于 sRGB 和 Adobe RGB 的国际标准色彩空间模式，只需一眼，已足够惊艳。"
+								}, {
+									"Q": "魅族 PRO 6 的屏幕的3D Press 技术是什么？",
+									"A": "我们将 3D Press 技术定义为新一代人机对话。不同于传统的点击、滑动手势，魅族PRO 6 可实时感知屏幕上按压力度的变化，唤出对应的预览结果及手机热键功能。这不仅直观提升了手机操作的效率，更是开辟出更多人机互动的可能。而且，这并非限定于视觉变化，3D Press 会给你带来触觉层面的震动反馈。软硬结合，方可大成。"
+								}, {
+									"Q": "魅族PRO 6 是否支持指纹识别？",
+									"A": "mTouch，代表着便利的指纹识别和安全的移动支付体验。整合了新一代的魅族指纹安全算法，魅族PRO 6 在识别速度、识别率、安全细节上进一步提升。得益于结构空间的优化设计，魅族标志性的腰圆键同样被完整继承于 魅族PRO 6 如此薄的机身之内，交互体验依旧宜人舒适。"
+								}, {
+									"Q": "魅族PRO 6 配有几种颜色？机身采用什么工艺？",
+									"A": "魅族PRO 6 采用了全新的 ID 风格，追求曲线与弧度之美，拥有更加纯粹的金属机身。银、金、黑三种配色大胆而精彩，环形闪光灯独特而夺目。新鲜惊艳中不失传承，处处透露着魅族对于极致的不懈追求和自我突破的渴望。我们斟酌结构上的每一个细节，打造更坚固的机身；我们引进更好的注塑材料和工艺，完成金属占比高达 98% 的一体化机身；我们采用全新的 3D 喷砂工艺和在线测量系统的钻石高光，无一不在完善 魅族PRO 6 的方方面面。"
+								}, {
+									"Q": "魅族PRO 6 是否支持双卡双待？是否支持 TF 扩展？",
+									"A": "魅族PRO 6 是双卡双待设计，可使用移动、联通或电信卡进行任意双卡组合，且不限制主副卡的安装位置，SIM 卡 1 和 SIM 卡 2 均可启用 4G。魅族 PRO 6 不支持TF 卡扩展。"
+								}, {
+									"Q": "魅族PRO 6 支持的网络有哪些？是否具备 VoLTE 语音通话技术？",
+									"A": "魅族PRO 6 带来了全网通。6 模 18 频打破网络制式的界限，移动、联通、电信 2/3/4G 随意搭配。全新智能天线技术，动态切换主副天线，保证信号持续稳定，让网络时刻畅通。全新的基带整合 LTE Cat.6 双载波聚合技术，使得最高下载速度可达 300Mbps；同时，魅族PRO 6 原生支持 VoLTE 通话方案，大幅提高语音质量，减少 90% 以上呼叫等待时间"
+								}, {
+									"Q": "魅族PRO 6 的 CPU 是用什么处理器？",
+									"A": "全新 Helio X25 旗舰处理器，带来魅族革命性的 10 核 3 集群架构。Cortex™-A72 CPU 搭配 Mali™-T880 GPU 黄金组合。配合 eMMC 5.1 闪存颗粒和 4GB 大内存，轻松应对各种使用场景。我们还整合内核级省电算法，针对上万个场景进行专项优化，智能调度 3 大集群，兼得续航与性能。"
+								}, {
+									"Q": "魅族PRO 6 的运行内存是多少？",
+									"A": "魅族PRO 6 配备 4GB 的运行内存，让系统在运行及程序切换时，体验更为流畅。"
+								}, {
+									"Q": "魅族PRO 6 后置摄像头是多少像素？是否采用了激光辅助对焦技术？",
+									"A": "7.25mm 的超薄机身，也要有性能强大的好相机。我们向供应商定制了 PRO 6 的主摄像头模组达到2116 万像素，围绕整体结构设计进行优化，将 PRO 5 上经典的 IMX 230 放置其中。全新升级的激光辅助对焦，在对焦距离和对焦速度上有了更大提升。环形闪光灯的助力，更是让 PRO 6 进一步加强了弱光环境下的拍摄表现。"
+								}, {
+									"Q": "魅族PRO 6 是否支持mCharge 快充技术？",
+									"A": "魅族PRO 6 依然拥有优秀的 24W 充电功率，相比主流5V/2A 方案，速度最高提升 140%。10 分钟即可充入 26%，1 小时基本充满。但我们并不满足于充电速度，通过与 MediaTek、Texas Instruments 三方合作，终于开发出精确配电的 mCharge 3.0 技术：3 颗 IC 芯片根据机身温度、电池电压、使用场景等数据不断沟通协作，动态切换高低电压。相比上一代快充方案，mCharge 3.0 平均效率提高 20%，温度降低 5℃ 以上。"
+								}, {
+									"Q": "魅族 PRO 6 是否支持 Type-C 接口？USB 3.1是什么技术？",
+									"A": "在 Type-C 成为 PRO 系标配的情况下，我们将 USB 3.1 Gen1 标准整合加入，最高带宽可达 5Gbps，电脑上传输速度轻松达到 90MB/s，是上一代的 3 倍之多。PRO 6 随机赠送的全新数据线，柔韧性大幅增强，同时提高了接口可靠性，并加入高温、短路主动保护装置，配合 mCharge 3.0，充电又快又安全。"
+								}, {
+									"Q": "魅族 PRO 6 是否支持HI-FI 技术？",
+									"A": "魅族PRO 6 采用了Cirrus Logic 的 CS43L36 解码耳放一体芯片。先进的电路设计，使得音染极小，动态优秀，声音干净有力，精准忠实地还原音乐的本来面目。如此，魅族PRO 6 成为一款宽容度极高的播放设备，可以适应各种口味。同时，魅族PRO 6 的 Hi-Fi 模块功耗相比上代降低了 75%，这使得平时的通话语音也可以由这颗芯片处理，配合 VoLTE，超高质量通话得以成为现实。"
+								}, {
+									"Q": "魅族 PRO 6 的mSound 是什么技术？",
+									"A": "魅族PRO 6 搭载了 NXP 第三代 Smart PA 系统。先进的芯片通过实时感知外放喇叭的状态，可以智能控制喇叭的震动；从而充分榨取喇叭的性能，大大提高了声音整体的响度和低频的质量，洪亮不破音，澎湃而清晰，使外放达到准 Hi-Fi 水平，我们称之为 mSound。"
+								}, {
+									"Q": "怎样才算购买成功？",
+									"A": "由于系统设置为付款后减库存，所以拍下并不代表购买成功。为了确保购买成功，建议拍下后尽快完成付款。"
+								}, {
+									"Q": "一次最多可以购买多少台PRO6？",
+									"A": "为尽可能保障普通客户的购买需求，避免“黄牛”囤积货物、抬价转售，损害普通客户利益。 特此约定：同一客户，仅限购买一台。若遇同一ID购买多台，仅发一台； 包括但不限于具备下列现象之一，均视为同一客户，仅发一台： 批量相同（包括雷同、邻近、虚构）的收货地址、同一联系号码（包括虚构、无法联系）、同一收件人 （巧合同名外）、同一支付账户等。"
+								}
+							]
+						}
+					},
+					"3": {        
+						"details": {
+							"name": "魅族PRO 5",
+							"describe": "27日10点起，最高享12期免息，买即赠EP31耳机",
+							"price":2199,
+							"net": [
+								{
+									"type": "公开版",
+									"has": 1
+								}
+							],
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "灰色",
+									"img_src": "../img/item_img/pro5/pro5_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/pro5/pro5_item_head_gray_big1.jpg"
+										}, {
+											"src": "../img/item_img/pro5/pro5_item_head_gray_big2.jpg"
+										}, {
+											"src": "../img/item_img/pro5/pro5_item_head_gray_big3.jpg"
+										}, {
+											"src": "../img/item_img/pro5/pro5_item_head_gray_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/pro5/pro5_item_head_gray_small1.jpg"
+										}, {
+											"src": "../img/item_img/pro5/pro5_item_head_gray_small2.jpg"
+										}, {
+											"src": "../img/item_img/pro5/pro5_item_head_gray_small3.jpg"
+										}, {
+											"src": "../img/item_img/pro5/pro5_item_head_gray_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"version": [
+								{
+									"type_name":"内存容量",
+									"type": "32GB",
+									"price": 2199,
+									"has": 1
+								}
+							],
+							"package": [
+								{
+									"type": "官方标配",
+									"has": 1
+								},  {
+									"type": "沃4G卡套餐 0元",
+									"img_src": "../img/item_img/pro5/pro5_item_package2.jpg",
+									"describe": "沃4G卡-新疆西藏不可用",
+									"price": 0,
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}, {
+									"type": "百城速达",
+									"point": 1
+								}, {
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"more": [
+								{
+									"cid":0,
+									"pid":2,
+									"img_src": "../img/item_img/pro6/pro6_item_list1.jpg",
+									"describe": "pro6 32G版 2299元"
+								}, {
+									"cid":0,
+									"pid":1,
+									"img_src": "../img/item_img/mx6/mx6_item_list1.png",
+									"describe": "MX6 1999元送豪礼"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/pro5/pro5_item_details1.jpg"
+								}, {
+									"img_src": "../img/item_img/pro5/pro5_item_details2.jpg"
+								}, {
+									"img_src": "../img/item_img/pro5/pro5_item_details3.jpg"
+								}, {
+									"img_src": "../img/item_img/pro5/pro5_item_details4.jpg"
+								}, {
+									"img_src": "../img/item_img/pro5/pro5_item_details5.jpg"
+								}, {
+									"img_src": "../img/item_img/pro5/pro5_item_details6.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "型号#PRO 5"
+									},{
+										"info": "尺寸#156.7×78×7.5mm "
+									},{
+										"info": "电池容量#3050mAh"
+									},{
+										"info": "重量#168g"
+									}
+								],
+								"screen":[
+									{
+										"info": "屏幕尺寸#5.7英寸"
+									},{
+										"info": "分辨率#1920×1080"
+									}
+								],
+								"ram": "运行内存#3GB(仅限32G版本)、4GB(仅限64G版本)",
+								"processor":[
+									{
+										"info": "CPU#Exynos 7420 处理器"
+									},{
+										"info": "GPU#Mali T760 图形处理器"
+									}
+								],
+								"net": "网络模式#双卡多模",
+								"Camera":[
+									{
+										"info": "前置摄像头#500万像素"
+									},{
+										"info": "后置摄像头#1200万像素"
+									}
+								],
+								"system": "系统版本#Flyme 4.5",
+								"include": [
+									{
+										"inc": "主机 x 1"
+									}, {
+										"inc": "电源适配器 x 1"
+									}, {
+										"inc": "保修证书 x 1"
+									}, {
+										"inc": "SIM卡顶针 x 1"
+									}, {
+										"inc": "数据线 x 1"
+									}, {
+										"inc": "EP31耳机x1（仅限64G版本）"
+									}
+								]
+							},
+							"FAQ": [
+								{
+									"Q": "魅族 PRO 5 的屏幕尺寸是多大？有哪几种颜色？",
+									"A": "魅族 PRO 5 采用全金属一体机身，屏幕5.7寸；有金色、灰色、银白、银黑四种颜色。"
+								}, {
+									"Q": "魅族 PRO 5 是否支持快充？",
+									"A": "支持快充，最大支持 12V/2A 的快充输入，充电速度比普通 5V/2A 输入大幅提升。"
+								}, {
+									"Q": "魅族 PRO 5 的屏幕采用什么工艺？",
+									"A": "魅族 PRO 5 屏幕采用的 2.5D 玻璃，是将平面玻璃的边缘，加工成具有圆润曲线的弧面，在更加美观的同时也提升了手感。"
+								}, {
+									"Q": "魅族 PRO 5 是否支持双卡？是否支持 TF 扩展/SD 扩展？",
+									"A": "支持双 Nano SIM 卡，或者单 Nano SIM 卡+TF 扩展。"
+								}, {
+									"Q": "魅族 PRO 5 支持的网络有哪些？",
+									"A": "魅族 PRO 5 的 SIM 卡 1 和 SIM 卡 2 均支持移动联通的 4G/3G/2G 网络。"
+								}, {
+									"Q": "魅族 PRO 5 的CPU是用什么处理器？",
+									"A": "魅族 PRO 5 使用了 14nm 工艺的 Exynos 7420 处理器，Exynos 7420 兼具强大的性能和优秀的功耗控制。"
+								}, {
+									"Q": "魅族 PRO 5 的运行内存是多少？",
+									"A": "魅族 PRO 5 32G 版配备的是 3GB 运行内存，64G 版则配备了 4GB 运行内存。"
+								}, {
+									"Q": "魅族 PRO 5 是否支持 Hi-Fi？使用的是什么芯片？",
+									"A": "支持。采用了 ES9018K2M 和 OPA1612，分别作为手机 Hi-Fi 系统的数模转换芯片和音频运放芯片，让 PRO5 具备低失真、高解析力的音频播放素质。"
+								}, {
+									"Q": "魅族 PRO 5 的 Type-C 接口有什么特点？",
+									"A": "与传统的 Micro USB 接口相比，魅族 PRO5 所采用的 Type-C 接口不分正反面（两面均可插入），且一样支持 USB 标准的充电、数据传输等功能。"
+								}, {
+									"Q": "UFS 2.0 是什么?",
+									"A": "魅族 PRO 5 所使用的 UFS 2.0 是新一代的闪存技术，其具备双向读写功能，随机读取速度是只支持单向读写的 eMMC 5.0 的数倍。"
+								}, {
+									"Q": "魅族 PRO 5 相机的相位对焦和激光对焦有什么特点？",
+									"A": "传统的反差对焦需要来回多次扫面对比画面才能确定焦点，而相位对焦只需一次运算即可完成对焦，再配合在暗光条件下优势明显的激光对焦，魅族 PRO5 的对焦速度最快可达 0.17s。"
+								},{
+									"Q": "什么是 VoLTE 技术?",
+									"A": "VoLTE 即 Voice over LTE，它是一种 IP 数据传输技术，即使在 4G 网络条件下，用户也可以进行高质量语音通话（需要运营商支持）。"
+								}, {
+									"Q": "魅族 PRO 5 后盖上印的是不是魅族的新 logo?",
+									"A": "是的。魅族 Logo 经过重新设计，魅族 PRO 5 为第一款使用魅族新 logo 的产品。"
+								}, {
+									"Q": "怎样才算购买成功？",
+									"A": "由于系统设置为付款后减库存，所以拍下并不代表购买成功。为了确保购买成功，建议拍下后尽快完成付款。"
+								}
+							]
+						}
+					},
+					"4": {        
+						"details": {
+							"name": "魅族 MX5",
+							"describe": "快充金属旗舰 指纹识别",
+							"price":1499,
+							"net": [
+								{
+									"type": "公开版",
+									"has": 1
+								}
+							],
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "银黑",
+									"img_src": "../img/item_img/mx5/mx5_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/mx5/mx5_item_head_silverBlack_big1.jpg"
+										}, {
+											"src": "../img/item_img/mx5/mx5_item_head_silverBlack_big2.jpg"
+										}, {
+											"src": "../img/item_img/mx5/mx5_item_head_silverBlack_big3.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/mx5/mx5_item_head_silverBlack_small1.jpg"
+										}, {
+											"src": "../img/item_img/mx5/mx5_item_head_silverBlack_small2.jpg"
+										}, {
+											"src": "../img/item_img/mx5/mx5_item_head_silverBlack_small3.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "灰色",
+									"img_src": "../img/item_img/mx5/mx5_item_list2.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/mx5/mx5_item_head_gray_big1.jpg"
+										}, {
+											"src": "../img/item_img/mx5/mx5_item_head_gray_big2.jpg"
+										}, {
+											"src": "../img/item_img/mx5/mx5_item_head_gray_big3.jpg"
+										}, {
+											"src": "../img/item_img/mx5/mx5_item_head_gray_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/mx5/mx5_item_head_gray_small1.jpg"
+										}, {
+											"src": "../img/item_img/mx5/mx5_item_head_gray_small2.jpg"
+										}, {
+											"src": "../img/item_img/mx5/mx5_item_head_gray_small3.jpg"
+										}, {
+											"src": "../img/item_img/mx5/mx5_item_head_gray_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"version": [
+								{
+									"type_name":"内存容量",
+									"type": "16GB",
+									"price": 1499,
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}, {
+									"type": "百城速达",
+									"point": 1
+								}, {
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/mx5/mx5_item_details1.jpg"
+								}, {
+									"img_src": "../img/item_img/mx5/mx5_item_details2.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "型号#MX5"
+									},{
+										"info": "尺寸#149.9×74.7×7.6mm"
+									},{
+										"info": "电池容量#3150mAh"
+									},{
+										"info": "重量#149g"
+									}
+								],
+								"screen":[
+									{
+										"info": "屏幕尺寸#5.5英寸"
+									},{
+										"info": "分辨率#1920×1080"
+									}
+								],
+								"ram": "运行内存#3GB",
+								"processor":[
+									{
+										"info": "CPU#Helio X10 Turbo"
+									},{
+										"info": "GPU#PowerVR G6200 图形处理器"
+									}
+								],
+								"net": "网络模式#双卡多模",
+								"Camera":[
+									{
+										"info": "前置摄像头#500万像素"
+									},{
+										"info": "后置摄像头#2070万像素"
+									}
+								],
+								"system": "系统版本#Flyme 4.5",
+								"include": [
+									{
+										"inc": "主机 x 1"
+									}, {
+										"inc": "电源适配器 x 1"
+									}, {
+										"inc": "保修证书 x 1"
+									}, {
+										"inc": "SIM卡顶针 x 1"
+									}, {
+										"inc": "数据线 x 1"
+									}
+								]
+							},
+							"FAQ": [
+								{
+									"Q": "怎样才算购买成功？",
+									"A": "由于系统设置为付款后减库存，所以拍下并不代表购买成功。为了确保购买成功，建议拍下后尽快完成付款。"
+								}, {
+									"Q": "MX5 有指示灯吗？",
+									"A": "在听筒左侧有隐藏白色指示灯，在手机有未读消息时会呼吸闪烁。"
+								}, {
+									"Q": "MX5 的电源键和音量键都是在机身右侧吗？",
+									"A": "MX5 的电源键键和音量键都设计在了手指更容易触及的机身右侧，而机身左侧为 SIM 卡安装位置。"
+								}, {
+									"Q": "T 槽的作用是什么？它是天线带吗？",
+									"A": "T 槽是为了平衡手机的天线信号和美观问题而设计的。"
+								}, {
+									"Q": "MX5 用的 CPU 是 Helio X10 还是 Helio X10 Turbo？",
+									"A": "Helio X10 和 Helio X10 Turbo 可以看成是同一 CPU 的不同主频版本。MX5 使用的是高频版 Helio X10 Turbo。"
+								}, {
+									"Q": "激光测距对焦仪是什么？",
+									"A": "激光测距对焦仪可通过激光进行测距，从而精确判断焦点所在，提升对焦速度。"
+								}, {
+									"Q": "闪光灯下面的黑色区域是什么?",
+									"A": "闪光灯下面为激光测距对焦仪所在的位置，两者融为一体，相得益彰。"
+								}, {
+									"Q": "MX5 是双卡双待单通手机还是双卡双待双通手机？",
+									"A": "MX5 是双卡双待单通手机，同一时间只能接入一张 SIM 卡的通话。"
+								}, {
+									"Q": "MX5 支持两张 SIM 卡都开启 4G 网络吗？",
+									"A": "MX5 移动联通版的主副卡均支持 4G 网络，但同一时间仅限 1 个卡槽启用 4G 网络（另一则为 2G），默认为开启移动数据的卡。"
+								}, {
+									"Q": "MX5 支持什么规格的 SIM 卡？",
+									"A": "MX5 支持双 Nano SIM 卡，不兼容 Micro SIM 卡。"
+								}, {
+									"Q": "MX5 支持 Micro SD 卡（TF 卡）扩展吗？",
+									"A": "不支持。"
+								},{
+									"Q": "MX5 支持 NFC 功能吗？",
+									"A": "不支持。"
+								}, {
+									"Q": "mCharge 是什么？",
+									"A": "mCharge 为魅族首次使用在 MX5 上的快速充电技术，最快 10 分钟可充电 25%，40 分钟充电 60%"
+								}, {
+									"Q": "mCharge 快速充电是搭配任意充电器都可以使用吗？",
+									"A": "mCharge 需搭配指定充电器使用，否则可能无法进行快速充电。"
+								}, {
+									"Q": "MX5 采用的是 LCD 屏幕还是 AMOLED 屏幕？",
+									"A": "MX5 采用的是 AMOLED 屏幕。屏幕厚度更为轻薄，响应灵敏度更为出色，在户外极端光照环境下实现高水准的明亮对比度，就算在强光直射环境，屏幕内容依旧清晰可见。"
+								}, {
+									"Q": "MX5 的屏幕使用的是什么贴合工艺？有什么特点？",
+									"A": "MX5 使用了 On-Cell 全贴合工艺，此工艺将手机屏幕的触摸层结合到了显示层中，在降低屏幕厚度的同时，提升了手机触控灵敏度。"
+								}
+							]
+						}
+					},
+					"5": {        
+						"details": {
+							"name": "魅蓝 Max",
+							"describe": "27日10点起，最高享12期免息，随机赠送梦幻西游卡",
+							"price":1699,
+							"net": [
+								{
+									"type": "全网通公开版",
+									"has": 1
+								}
+							],
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "香槟金",
+									"img_src": "../img/item_img/max/max_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/max/max_item_head_gold_big1.jpg"
+										}, {
+											"src": "../img/item_img/max/max_item_head_gold_big2.jpg"
+										}, {
+											"src": "../img/item_img/max/max_item_head_gold_big3.jpg"
+										}, {
+											"src": "../img/item_img/max/max_item_head_gold_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/max/max_item_head_gold_small1.jpg"
+										}, {
+											"src": "../img/item_img/max/max_item_head_gold_small2.jpg"
+										}, {
+											"src": "../img/item_img/max/max_item_head_gold_small3.jpg"
+										}, {
+											"src": "../img/item_img/max/max_item_head_gold_small4.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "月光银",
+									"img_src": "../img/item_img/max/max_item_list2.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/max/max_item_head_silver_big1.jpg"
+										}, {
+											"src": "../img/item_img/max/max_item_head_silver_big2.jpg"
+										}, {
+											"src": "../img/item_img/max/max_item_head_silver_big3.jpg"
+										}, {
+											"src": "../img/item_img/max/max_item_head_silver_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/max/max_item_head_silver_small1.jpg"
+										}, {
+											"src": "../img/item_img/max/max_item_head_silver_small2.jpg"
+										}, {
+											"src": "../img/item_img/max/max_item_head_silver_small3.jpg"
+										}, {
+											"src": "../img/item_img/max/max_item_head_silver_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"version": [
+								{
+									"type_name":"内存容量",
+									"type": "64GB",
+									"price": 1699,
+									"has": 1
+								}
+							],
+							"package": [
+								{
+									"type": "官方标配",
+									"has": 1
+								},  {
+									"type": "动听套餐 89元 省40元",
+									"img_src": "../img/item_img/max/max_item_package2.jpg",
+									"describe": " 魅族 EP21-HD耳机（套餐版）",
+									"price": 89,
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}, {
+									"type": "百城速达",
+									"point": 1
+								}, {
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":0,
+									"pid":1,
+									"img_src": "../img/item_img/mx6/mx6_item_list1.png",
+									"describe": "MX6 1999元送豪礼"
+								},{
+									"cid":0,
+									"pid":11,
+									"img_src": "../img/item_img/note3/note3_item_list1.png",
+									"describe": "魅蓝note3 799元起"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/max/max_item_details1.jpg"
+								}, {
+									"img_src": "../img/item_img/max/max_item_details2.jpg"
+								}, {
+									"img_src": "../img/item_img/max/max_item_details3.jpg"
+								}, {
+									"img_src": "../img/item_img/max/max_item_details4.jpg"
+								}, {
+									"img_src": "../img/item_img/max/max_item_details5.jpg"
+								}, {
+									"img_src": "../img/item_img/max/max_item_details6.jpg"
+								}, {
+									"img_src": "../img/item_img/max/max_item_details7.jpg"
+								}, {
+									"img_src": "../img/item_img/max/max_item_details8.jpg"
+								}, {
+									"img_src": "../img/item_img/max/max_item_details9.jpg"
+								}, {
+									"img_src": "../img/item_img/max/max_item_details10.jpg"
+								}, {
+									"img_src": "../img/item_img/max/max_item_details11.jpg"
+								}, {
+									"img_src": "../img/item_img/max/max_item_details12.jpg"
+								}, {
+									"img_src": "../img/item_img/max/max_item_details13.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "型号#魅蓝Max"
+									},{
+										"info": "尺寸#163.4 × 81.6 × 7.9mm"
+									},{
+										"info": "电池容量#4100mAh"
+									},{
+										"info": "重量#189g"
+									}
+								],
+								"screen":[
+									{
+										"info": "屏幕尺寸#6.0英寸"
+									},{
+										"info": "分辨率#1920×1080"
+									}
+								],
+								"ram": "运行内存#3GB",
+								"processor":[
+									{
+										"info": "CPU#Helio P10 处理器"
+									},{
+										"info": "GPU#ARM Mali-T860 图形处理器"
+									}
+								],
+								"net": "网络模式#双卡多模",
+								"Camera":[
+									{
+										"info": "前置摄像头#500万像素"
+									},{
+										"info": "后置摄像头#1300万像素"
+									}
+								],
+								"system": "系统版本#Flyme 5",
+								"include": [
+									{
+										"inc": "主机 x 1"
+									}, {
+										"inc": "电源适配器 x 1"
+									}, {
+										"inc": "保修证书 x 1"
+									}, {
+										"inc": "SIM卡顶针 x 1"
+									}, {
+										"inc": "数据线 x 1"
+									}
+								]
+							},
+							"FAQ": [
+								{
+									"Q": "9月12日预售的手机，什么时候发货？",
+									"A": "此次活动，将于订单付款后的7天内发货。"
+								}, {
+									"Q": "魅蓝 Max 有哪几种颜色？机身材质？",
+									"A": "星空灰、月光银、槟金、玫瑰金四种颜色；金属一体化机身。"
+								}, {
+									"Q": "魅蓝 Max 的屏幕尺寸是多大？",
+									"A": "6.0 英寸，采用 IPS 技术，1080P 全高清大屏幕，色彩显示不仅通透，也更耐看。"
+								}, {
+									"Q": "魅蓝 Max 是否支持指纹识别？",
+									"A": "支持 mTouch 2.1，响应速度达 0.2s ，支持支付宝和微信的指纹支付。"
+								}, {
+									"Q": "魅蓝 Max 是否支持 TF 扩展？",
+									"A": "支持，最高可支持 128GB 扩展。"
+								}, {
+									"Q": "魅蓝 Max 支持的网络有哪些？",
+									"A": "魅蓝 Max 遵循新全网通标准，支持移动、电信、联通三大国内运营商 SIM 双卡盲插。"
+								}, {
+									"Q": "魅蓝 Max 的 CPU 是用什么处理器？",
+									"A": "Helio P10 处理器。"
+								}, {
+									"Q": "魅蓝 Max 的运行内存是多少？",
+									"A": "3GB 运行内存。"
+								}, {
+									"Q": "魅蓝 Max 后置摄像头是多少像素？是否搭载相位对焦技术？",
+									"A": "SONY IMX 258 1300 万像素；0.2秒高速 PDAF 相位对焦，F/2.2 大光圈。"
+								}, {
+									"Q": "魅蓝 Max 的电池规格？是否支持 mCharge 安全快充？",
+									"A": "4100 mAh 超长续航；支持mCharge 安全快充，峰值功率达到 24W。"
+								}
+							]
+						}
+					},
+					"6": {        
+						"details": {
+							"name": "魅蓝 U20",
+							"describe": "曲面高颜值 指纹加美颜 支持花呗分期",
+							"price":1099,
+							"net": [
+								{
+									"type": "全网通公开版",
+									"has": 1
+								}
+							],
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "星空黑",
+									"img_src": "../img/item_img/u20/u20_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/u20/u20_item_head_black_big1.jpg"
+										}, {
+											"src": "../img/item_img/u20/u20_item_head_black_big2.jpg"
+										}, {
+											"src": "../img/item_img/u20/u20_item_head_black_big3.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/u20/u20_item_head_black_small1.jpg"
+										}, {
+											"src": "../img/item_img/u20/u20_item_head_black_small2.jpg"
+										}, {
+											"src": "../img/item_img/u20/u20_item_head_black_small3.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "月牙白",
+									"img_src": "../img/item_img/u20/u20_item_list2.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/u20/u20_item_head_white_big1.jpg"
+										}, {
+											"src": "../img/item_img/u20/u20_item_head_white_big2.jpg"
+										}, {
+											"src": "../img/item_img/u20/u20_item_head_white_big3.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/u20/u20_item_head_white_small1.jpg"
+										}, {
+											"src": "../img/item_img/u20/u20_item_head_white_small2.jpg"
+										}, {
+											"src": "../img/item_img/u20/u20_item_head_white_small3.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"version": [
+								{
+									"type_name":"内存容量",
+									"type": "16GB",
+									"price": 1099,
+									"has": 1
+								},
+								{
+									"type": "32GB",
+									"price": 1299,
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}, {
+									"type": "百城速达",
+									"point": 1
+								}, {
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":0,
+									"pid":7,
+									"img_src": "../img/item_img/u10/u10_item_list1.png",
+									"describe": "魅蓝U10 999元起"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/u20/u20_item_details1.jpg"
+								}, {
+									"img_src": "../img/item_img/u20/u20_item_details2.jpg"
+								}, {
+									"img_src": "../img/item_img/u20/u20_item_details3.jpg"
+								}, {
+									"img_src": "../img/item_img/u20/u20_item_details4.jpg"
+								}, {
+									"img_src": "../img/item_img/u20/u20_item_details5.jpg"
+								}, {
+									"img_src": "../img/item_img/u20/u20_item_details6.jpg"
+								}, {
+									"img_src": "../img/item_img/u20/u20_item_details7.jpg"
+								}, {
+									"img_src": "../img/item_img/u20/u20_item_details8.jpg"
+								}, {
+									"img_src": "../img/item_img/u20/u20_item_details9.jpg"
+								}, {
+									"img_src": "../img/item_img/u20/u20_item_details10.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "型号#魅蓝 U20"
+									},{
+										"info": "尺寸#153*75.4*7.7mm"
+									},{
+										"info": "电池容量#3260mAh"
+									},{
+										"info": "重量#158g"
+									}
+								],
+								"screen":[
+									{
+										"info": "屏幕尺寸#5.5英寸"
+									},{
+										"info": "分辨率#1920×1080"
+									}
+								],
+								"ram": "运行内存#2GB（仅限16G版本）、3GB（仅限32G版本）",
+								"processor":[
+									{
+										"info": "CPU#Helio P10 处理器"
+									},{
+										"info": "GPU#ARM Mali-T860 图形处理器"
+									}
+								],
+								"net": "网络模式#双卡多模",
+								"Camera":[
+									{
+										"info": "前置摄像头#500万像素"
+									},{
+										"info": "后置摄像头#1300万像素"
+									}
+								],
+								"system": "系统版本#Flyme powered by YunOS",
+								"include": [
+									{
+										"inc": "主机 x 1"
+									}, {
+										"inc": "电源适配器 x 1"
+									}, {
+										"inc": "保修证书 x 1"
+									}, {
+										"inc": "SIM卡顶针 x 1"
+									}, {
+										"inc": "数据线 x 1"
+									}
+								]
+							},
+							"FAQ": [
+								{
+									"Q": "魅蓝 U20 的屏幕尺寸是多大？有哪几种颜色？机身材质？",
+									"A": "5.5 英寸、1080P，月牙白、星空黑、香槟金和玫瑰金，双面玻璃设计。"
+								}, {
+									"Q": "魅蓝 U20 是否支持指纹识别？",
+									"A": "支持 mTouch 2.1，响应速度达 0.2s ，支持支付宝指纹支付。"
+								}, {
+									"Q": "魅蓝 U20 屏幕采用什么工艺？",
+									"A": "2.5D 弧面玻璃，GFF 全贴合，400PPI。"
+								}, {
+									"Q": "魅蓝 U20 是否支持 TF 扩展？",
+									"A": "支持，最高可支持 128GB 扩展。"
+								}, {
+									"Q": "魅蓝 U20 支持的网络有哪些？是否具备 VoLTE 语音通话技术？",
+									"A": "魅蓝 U20 全网通版，可满足中国移动、中国联通、中国电信三大运营商网络，一张卡 4G 极速上网，另一张卡 2G 语音畅聊。公开版支持 4G+ 支持 VoLTE，全网通电信版支持 4G+ 不支持 VoLTE。"
+								}, {
+									"Q": "魅蓝 U20 的 CPU 是用什么？",
+									"A": "Helio P10 处理器。"
+								}, {
+									"Q": "魅蓝 U20 的运行内存是多少？",
+									"A": "2GB/3GB 运行内存。"
+								}, {
+									"Q": "魅蓝 U20 后置摄像头是多少像素？是否搭载相位对焦技术？",
+									"A": "1300 万像素，搭载 PDAF 高速相位对焦，F/2.2 大光圈。"
+								}, {
+									"Q": "魅蓝 U20 的电池规格？是否支持 mCharge 安全快充？",
+									"A": "3260 mAh，不支持mCharge 安全快充。"
+								}, {
+									"Q": "魅蓝 U20 搭载的操作系统？",
+									"A": "Flyme powered by YunOS"
+								}
+							]
+						}
+					},
+					"7": {        
+						"details": {
+							"name": "魅蓝 U10",
+							"describe": "新品现货 曲面高颜值 指纹加美颜",
+							"price":1099,
+							"net": [
+								{
+									"type": "全网通公开版",
+									"has": 1
+								}
+							],
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "月牙白",
+									"img_src": "../img/item_img/u10/u10_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/u10/u10_item_head_white_big1.jpg"
+										}, {
+											"src": "../img/item_img/u10/u10_item_head_white_big2.jpg"
+										}, {
+											"src": "../img/item_img/u10/u10_item_head_white_big3.jpg"
+										}, {
+											"src": "../img/item_img/u10/u10_item_head_white_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/u10/u10_item_head_white_small1.jpg"
+										}, {
+											"src": "../img/item_img/u10/u10_item_head_white_small2.jpg"
+										}, {
+											"src": "../img/item_img/u10/u10_item_head_white_small3.jpg"
+										}, {
+											"src": "../img/item_img/u10/u10_item_head_white_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"version": [
+								{
+									"type_name":"内存容量",
+									"type": "16GB",
+									"price": 999,
+									"has": 1
+								},
+								{
+									"type": "32GB",
+									"price": 1199,
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}, {
+									"type": "百城速达",
+									"point": 1
+								}, {
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":0,
+									"pid":6,
+									"img_src": "../img/item_img/u20/u20_item_list1.png",
+									"describe": "魅蓝U20 公开版1099元起"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/u10/u10_item_details1.jpg"
+								}, {
+									"img_src": "../img/item_img/u10/u10_item_details2.jpg"
+								}, {
+									"img_src": "../img/item_img/u10/u10_item_details3.jpg"
+								}, {
+									"img_src": "../img/item_img/u10/u10_item_details4.jpg"
+								}, {
+									"img_src": "../img/item_img/u10/u10_item_details5.jpg"
+								}, {
+									"img_src": "../img/item_img/u10/u10_item_details6.jpg"
+								}, {
+									"img_src": "../img/item_img/u10/u10_item_details7.jpg"
+								}, {
+									"img_src": "../img/item_img/u10/u10_item_details8.jpg"
+								}, {
+									"img_src": "../img/item_img/u10/u10_item_details9.jpg"
+								}, {
+									"img_src": "../img/item_img/u10/u10_item_details10.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "型号#魅蓝 U10"
+									},{
+										"info": "尺寸#141.9*69.6*7.9mm"
+									},{
+										"info": "电池容量#2760mAh"
+									},{
+										"info": "重量#139g"
+									}
+								],
+								"screen":[
+									{
+										"info": "屏幕尺寸#5.0英寸"
+									},{
+										"info": "分辨率#1280 x 720"
+									}
+								],
+								"ram": "运行内存#2GB（仅限16G版本）、3GB（仅限32G版本）",
+								"processor":[
+									{
+										"info": "CPU#AMT6750 处理器"
+									},{
+										"info": "GPU#ARM Mali-T860 图形处理器"
+									}
+								],
+								"net": "网络模式#双卡多模",
+								"Camera":[
+									{
+										"info": "前置摄像头#500万像素"
+									},{
+										"info": "后置摄像头#1300万像素"
+									}
+								],
+								"include": [
+									{
+										"inc": "主机 x 1"
+									}, {
+										"inc": "电源适配器 x 1"
+									}, {
+										"inc": "保修证书 x 1"
+									}, {
+										"inc": "SIM卡顶针 x 1"
+									}, {
+										"inc": "数据线 x 1"
+									}
+								]
+							},
+							"FAQ": [
+								{
+									"Q": "魅蓝 U10 的屏幕尺寸是多大？有哪几种颜色？机身材质？",
+									"A": "5.0 英寸、720P，月牙白、星空黑、香槟金和玫瑰金，双面玻璃设计。"
+								}, {
+									"Q": "魅蓝 U10 是否支持指纹识别？",
+									"A": "支持 mTouch 2.1，响应速度达 0.2s ，支持支付宝指纹支付。"
+								}, {
+									"Q": "魅蓝 U10 屏幕采用什么工艺？",
+									"A": "2.5D 弧面玻璃，GFF 全贴合，296PPI。"
+								}, {
+									"Q": "魅蓝 U10 是否支持 TF 扩展？",
+									"A": "支持，最高可支持 128GB 扩展。"
+								}, {
+									"Q": "魅蓝 U10 支持的网络有哪些？是否具备 VoLTE 语音通话技术？",
+									"A": "魅蓝 U10 全网通版，即可满足中国移动、中国联通、中国电信三大运营商网络，一张卡 4G 极速上网，另一张卡 2G 语音畅聊。公开版支持 VoLTE , 不支持4G+，全网通电信版支持 4G+ 不支持 VoLTE。"
+								}, {
+									"Q": "魅蓝 U10 的 CPU 是用什么？",
+									"A": "MT6750处理器。"
+								},  {
+									"Q": "魅蓝 U10 的运行内存是多少？",
+									"A": "2GB/3GB 运行内存。"
+								}, {
+									"Q": "魅蓝 U10 后置摄像头是多少像素？是否搭载相位对焦技术？",
+									"A": "1300 万像素，搭载 PDAF 高速相位对焦，F/2.2 大光圈。"
+								}, {
+									"Q": "魅蓝 U10 的电池规格？是否支持 mCharge 安全快充？",
+									"A": "3260 mAh，不支持mCharge 安全快充。"
+								}, {
+									"Q": "魅蓝 U10 搭载的操作系统？",
+									"A": "Flyme powered by YunOS"
+								}
+							]
+						}
+					},
+					"8": {        
+						"details": {
+							"name": "魅蓝3s",
+							"describe": "10月10日限量开售",
+							"price":699,
+							"net": [
+								{
+									"type": "全网通公开版",
+									"has": 1
+								},
+								{
+									"type": "移动定制版",
+									"has": 0
+								}
+							],
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "金色",
+									"img_src": "../img/item_img/3s/3s_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/3s/3s_item_head_gold_big1.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_gold_big2.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_gold_big3.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_gold_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/3s/3s_item_head_gold_small1.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_gold_small2.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_gold_small3.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_gold_small4.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "灰色",
+									"img_src": "../img/item_img/3s/3s_item_list2.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/3s/3s_item_head_gray_big1.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_gray_big2.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_gray_big3.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_gray_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/3s/3s_item_head_gray_small1.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_gray_small2.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_gray_small3.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_gray_small4.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "银色",
+									"img_src": "../img/item_img/3s/3s_item_list3.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/3s/3s_item_head_silver_big1.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_silver_big2.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_silver_big3.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_silver_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/3s/3s_item_head_silver_small1.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_silver_small2.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_silver_small3.jpg"
+										}, {
+											"src": "../img/item_img/3s/3s_item_head_silver_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"version": [
+								{
+									"type_name":"内存容量",
+									"type": "16GB",
+									"price": 999,
+									"has": 1
+								},
+								{
+									"type": "32GB",
+									"price": 1199,
+									"has": 1
+								}
+							],
+							"package": [
+								{
+									"type": "动听套餐 89元 省40元",
+									"img_src": "../img/item_img/max/max_item_package2.jpg",
+									"describe": " 魅族 EP21-HD耳机（套餐版）",
+									"price": 89,
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":0,
+									"pid":6,
+									"img_src": "../img/item_img/u20/u20_item_list1.png",
+									"describe": "魅蓝U20 公开版1099元起"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/3s/3s_item_details1.jpg"
+								}, {
+									"img_src": "../img/item_img/3s/3s_item_details2.jpg"
+								}, {
+									"img_src": "../img/item_img/3s/3s_item_details3.jpg"
+								}, {
+									"img_src": "../img/item_img/3s/3s_item_details4.jpg"
+								}, {
+									"img_src": "../img/item_img/3s/3s_item_details5.jpg"
+								}, {
+									"img_src": "../img/item_img/3s/3s_item_details6.jpg"
+								}, {
+									"img_src": "../img/item_img/3s/3s_item_details7.jpg"
+								}, {
+									"img_src": "../img/item_img/3s/3s_item_details8.jpg"
+								}, {
+									"img_src": "../img/item_img/3s/3s_item_details9.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "型号#魅蓝3s"
+									},{
+										"info": "尺寸#141.9*69.9*8.3mm"
+									},{
+										"info": "电池容量#3020mAh"
+									},{
+										"info": "重量#138g"
+									}
+								],
+								"screen":[
+									{
+										"info": "屏幕尺寸#5.0英寸"
+									},{
+										"info": "分辨率#1280 x 720"
+									}
+								],
+								"ram": "运行内存#2GB（仅限16G版本）、3GB（仅限32G版本）",
+								"processor":[
+									{
+										"info": "CPU#MT6750 处理器"
+									},{
+										"info": "GPU#ARM Mali-T860 图形处理器"
+									}
+								],
+								"net": "网络模式#双卡多模",
+								"Camera":[
+									{
+										"info": "前置摄像头#500万像素"
+									},{
+										"info": "后置摄像头#1300万像素"
+									}
+								],
+								"include": [
+									{
+										"inc": "主机 x 1"
+									}, {
+										"inc": "电源适配器 x 1"
+									}, {
+										"inc": "保修证书 x 1"
+									}, {
+										"inc": "SIM卡顶针 x 1"
+									}, {
+										"inc": "数据线 x 1"
+									}
+								]
+							},
+							"FAQ": [
+								{
+									"Q": "魅蓝 3s 的屏幕尺寸是多大？屏幕采用什么工艺？",
+									"A": "魅蓝 3s 上配备了一块 5.0 英寸的高清屏幕，全贴合技术的运用，让屏幕效果更为通透亮丽。2.5D 弧面玻璃，还为整机带来视觉好手感佳的双重好处。每次点亮屏幕瞬间，Flyme 的美都能融入你心。"
+								}, {
+									"Q": "魅蓝 3s 是否支持指纹识别？",
+									"A": "魅蓝 3s 搭载 mTouch 2.1 正面指纹识别功能，这是你既安全又「轻便」的密码。凭着每个人独一无二的指纹密钥，你可实现指纹解锁、支付宝指纹支付、Flyme 应用商店指纹支付及 Flyme 应用指纹加密多重功能。"
+								}, {
+									"Q": "魅蓝 3s是否采用金属机身？提供多少种机身颜色？",
+									"A": "魅蓝 3s 带来了惊喜的金属机身。我们在其金属表层进行了 360°喷砂，手感柔顺且更显精致。成熟的阳极氧化工艺还为魅蓝 3s 提供了银色、灰色、金色及玫瑰金配色，时尚间更具活力。机身高光边、音量电源按键、配合背面 CNC 细节，从不同角度望过去，都同样亮眼。"
+								}, {
+									"Q": "魅蓝 3s 是否支持 TF 扩展？",
+									"A": "支持，最高可支持 128GB 扩展。"
+								}, {
+									"Q": "魅蓝 3s 支持的网络有哪些？",
+									"A": "魅蓝 3s 全网通版可支持中国移动、中国联通、中国电信 4G 网络，并且不区分主副卡，一张卡 4G 高速畅游，另一张 2G 稳定通话。通过连接 5G Wi-Fi 无线网络，你还可在魅蓝 3s 上享受更快速度的互联网体验，不担心周边热点的隐形干扰。我们还提供蓝牙 4.0 技术，稳定连接你的 EP51 蓝牙运动耳机。"
+								}, {
+									"Q": "魅蓝 3s 的 CPU 是用什么处理器？",
+									"A": "魅蓝 3s采用优秀的八核心 A53 架构处理器，整机运算性能十分强劲。魅蓝 3s 最高可支持 3GB 大运存，Flyme 5 系统还为其提供了更聪明的内存空间管控机制，即使同时开启多个应用，也无需顾虑后台承压。"
+								},  {
+									"Q": "魅蓝 3s 的运行内存是多少？",
+									"A": "2GB/3GB 运行内存。"
+								}, {
+									"Q": "魅蓝 3s 后置摄像头是多少像素？",
+									"A": "作为一部便携「相机」，你能随时带着魅蓝 3s 捕捉各处精彩瞬间。1300 万像素主摄像头可支持相位检测自动对焦，更快的对焦速度可确保每一次抓拍都轻而易举。纯粹的按下快门也许索然无味，魅蓝 3s 内置慢镜头等多种拍摄模式，摄影将因你的创意而变得有趣。"
+								}, {
+									"Q": "魅蓝 3s 的电池规格？",
+									"A": "魅蓝 3s 采用 3020mAh 大容量电池 配合优秀的八核心 A53 架构处理器，可根据生活使用场景实时平衡性能与功效，赋予了魅蓝 3s 非凡的续航表现。"
+								}
+							]
+						}
+					},
+					"9": {        
+						"details": {
+							"name": "魅蓝3",
+							"describe": "八核水滴屏 绚丽全网通",
+							"price":599,
+							"net": [
+								{
+									"type": "移动定制版",
+									"has": 1
+								}
+							],
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "白色",
+									"img_src": "../img/item_img/mei3/mei3_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/mei3/mei3_item_head_white_big1.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_white_big2.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_white_big3.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_white_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/mei3/mei3_item_head_white_small1.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_white_small2.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_white_small3.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_white_small4.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "金色",
+									"img_src": "../img/item_img/mei3/mei3_item_list2.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/mei3/mei3_item_head_gold_big1.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_gold_big2.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_gold_big3.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_gold_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/mei3/mei3_item_head_gold_small1.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_gold_small2.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_gold_small3.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_gold_small4.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "灰色",
+									"img_src": "../img/item_img/mei3/mei3_item_list3.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/mei3/mei3_item_head_gray_big1.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_gray_big2.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_gray_big3.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_gray_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/mei3/mei3_item_head_gray_small1.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_gray_small2.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_gray_small3.jpg"
+										}, {
+											"src": "../img/item_img/mei3/mei3_item_head_gray_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"version": [
+								{
+									"type_name":"内存容量",
+									"type": "16GB",
+									"price": 599,
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":0,
+									"pid":8,
+									"img_src": "../img/item_img/3s/3s_item_list1.png",
+									"describe": "魅蓝3s 699元起"
+								},{
+									"cid":0,
+									"pid":28,
+									"img_src": "../img/item_img/metal/metal_item_list1.png",
+									"describe": "魅蓝metal 999元起"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/mei3/mei3_item_details1.jpg"
+								}, {
+									"img_src": "../img/item_img/mei3/mei3_item_details2.jpg"
+								}, {
+									"img_src": "../img/item_img/mei3/mei3_item_details3.jpg"
+								}, {
+									"img_src": "../img/item_img/mei3/mei3_item_details4.jpg"
+								}, {
+									"img_src": "../img/item_img/mei3/mei3_item_details5.jpg"
+								}, {
+									"img_src": "../img/item_img/mei3/mei3_item_details6.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "型号#魅蓝3"
+									},{
+										"info": "尺寸#141.5*69.5* 8.3mm"
+									},{
+										"info": "电池容量#2870mAh"
+									},{
+										"info": "重量#132g"
+									}
+								],
+								"screen":[
+									{
+										"info": "屏幕尺寸#5.0英寸"
+									},{
+										"info": "分辨率#1280 x 720"
+									}
+								],
+								"ram": "运行内存#2GB（仅限16G版本）、3GB（仅限32G版本）",
+								"processor":[
+									{
+										"info": "CPU#MTK MT6750 处理器"
+									},{
+										"info": "GPU#ARM Mali-T860 图形处理器"
+									}
+								],
+								"net": "网络模式#双卡多模",
+								"Camera":[
+									{
+										"info": "前置摄像头#500万像素"
+									},{
+										"info": "后置摄像头#1300万像素"
+									}
+								],
+								"system":"系统版本#Flyme 5.1 powered by YunOS",
+								"include": [
+									{
+										"inc": "主机 x 1"
+									}, {
+										"inc": "电源适配器 x 1"
+									}, {
+										"inc": "保修证书 x 1"
+									}, {
+										"inc": "SIM卡顶针 x 1"
+									}, {
+										"inc": "数据线 x 1"
+									}
+								]
+							},
+							"FAQ": [
+								{
+									"Q": "魅蓝 3 如何才算是购买成功？",
+									"A": "魅蓝 3 每个ID限购一件，批量相同（包括雷同、邻近、虚构）的收货地址、同一联系号码（包括虚构、无法联系）、同一收件人 （巧合同名外）、同一支付账户等均视作一个ID，仅发一台。"
+								}, {
+									"Q": "魅蓝 3 的全网通公开版、电信版，移动定制版，联通版的区别？",
+									"A": "全网通（公开版、电信版）支持的运营商网络制式有：移动 4G TD-LTE、联通/电信 4G TD/FDD-LTE、移动 3G TD-SCDMA、联通 3G WCDMA、电信 3G EVDO、移动/联通 2G GSM、电信 2G CDMA； 联通版/移动定制版支持的运营商网络制式有：移动 4G TD-LTE、联通 4G TD/FDD-LTE、移动 3G TD-SCDMA、联通 3G WCDMA、移动/联通 2G GSM。"
+								}, {
+									"Q": "魅蓝 3 的屏幕尺寸是多大？有哪几种颜色？",
+									"A": "魅蓝 3 配备一块 5 英寸 1280x720 分辨率屏幕，采用先进的 IPS 显示技术;此外，魅蓝 3 使用 GFF 全贴合技术，减少显示面板与 2.5D 玻璃板间折射反光，让屏幕看起来更加圆润通透. 魅蓝 3 在此前多彩的基础上，更新增了备受期待的金色。同时，精心调整的粉色更显水嫩，如马卡龙的香甜温馨。"
+								}, {
+									"Q": "魅蓝 3 是否支持指纹识别？",
+									"A": "魅蓝 3 不支持指纹识别。"
+								}, {
+									"Q": "魅蓝 3 屏幕采用什么工艺？",
+									"A": "2.5D 玻璃前面板不仅成就了魅蓝 3 视觉上的晶莹剔透，更收获了令人惊讶的顺滑手感。我们针对性地重新设计机身弧度，使其与 2.5D 玻璃圆满契合。精确至毫米级的内部重构，又凝练出魅蓝 3 令人讶异的纤巧机身。更为先进的镀膜和喷涂工艺，赋予了魅蓝 3 丝滑的细腻触感。如此，才可成就魅蓝 3 手感的全方位蜕变。一入手，便爱不释手。"
+								}, {
+									"Q": "魅蓝 3 是否支持 TF 扩展？",
+									"A": "魅蓝 3 支持 TF 扩展，最高支持 128GB。"
+								},  {
+									"Q": "魅蓝 3 支持的网络有哪些？是否具备 VoLTE 语音通话技术？",
+									"A": "魅蓝 3 全面支持国内移动、联通、电信三大运营商网络，两个卡槽都支持 4G 极速上网，不再区分主副卡。同时 VoLTE 也已来到魅蓝 3，通话接通缩短 90%，视频通话质量更是清晰十倍 ；另外，魅蓝 3 还新增高铁模式，可以有效降低高速运动过程中信号失真，修正网络卡顿和掉线，让你在高速行驶的高铁内也能稳定地上网，让旅途不再无聊。"
+								}, {
+									"Q": "魅蓝 3 的 CPU 是用什么处理器？",
+									"A": "魅蓝 3 采用八核 64 位处理器，使用高端 HPM 工艺，主频最高可达 1.5GHz，性能是上一代的整整 1.6 倍，同时，大小核的搭配让其更加节能。而 Mali-T860 GPU，图像处理能力较上一代提升 50%，配合 2GB/3GB 运行内存，eMMc5.0 极速闪存，魅蓝 3 绝不仅限于满足日常应用，即使是面对大型 3D 游戏也能轻快处理，流畅运行。"
+								}, {
+									"Q": "魅蓝 3 的运行内存是多少？",
+									"A": "魅蓝 3 16G 版本搭配 2G RAM，32G 版本搭配 3G RAM。"
+								}, {
+									"Q": "魅蓝 3 后置摄像头是多少像素？",
+									"A": "一款出色的相机，能够为你留下人生追忆的瞬间。魅蓝 3 正是为此而来。1300W 后置摄像头，是不放过任何细节的慧眼；快至 0.2s 的相位对焦 ，能抓住转瞬即逝的刹那；而遇到暗光时，双色温闪光灯在及时补充光线的同时，又能保证拍出的照片色彩准确。"
+								}, {
+									"Q": "魅蓝 3 的电池规格？",
+									"A": "魅蓝 3 CPU 采用独特的 CorePilot™2.0 异构计算技术，可以根据应用场景，智能协调 8 核芯负载，高效利用性能的同时，让每一分电量都物尽所值。此外，魅蓝 3 搭载的 Flyme 5.1 power by YunOS 专门针对功耗进行了深度优化，2870mAh 大容量电池更是为虎添翼，赋予了魅蓝 3 非凡的续航表现，让你一整天使用足够有安全感。"
+								}
+							]
+						}
+					},
+					"10": {        
+						"details": {
+							"name": "魅蓝 E",
+							"describe": "全网通 多彩金属机身",
+							"price":1299,
+							"net": [
+								{
+									"type": "全网通公开版",
+									"has": 1
+								},
+								{
+									"type": "全网通电信版",
+									"has": 1
+								},
+								{
+									"type": "移动定制版",
+									"has": 1
+								}
+							],
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "香槟金",
+									"img_src": "../img/item_img/meiE/meiE_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/meiE/meiE_item_head_gold_big1.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_gold_big2.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_gold_big3.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_gold_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/meiE/meiE_item_head_gold_small1.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_gold_small2.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_gold_small3.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_gold_small4.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "月光银",
+									"img_src": "../img/item_img/meiE/meiE_item_list2.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/meiE/meiE_item_head_silver_big1.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_silver_big2.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_silver_big3.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_silver_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/meiE/meiE_item_head_silver_small1.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_silver_small2.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_silver_small3.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_silver_small4.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "星空灰",
+									"img_src": "../img/item_img/meiE/meiE_item_list3.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/meiE/meiE_item_head_gray_big1.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_gray_big2.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_gray_big3.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_gray_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/meiE/meiE_item_head_gray_small1.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_gray_small2.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_gray_small3.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_gray_small4.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "冰川蓝",
+									"img_src": "../img/item_img/meiE/meiE_item_list4.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/meiE/meiE_item_head_blue_big1.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_blue_big2.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_blue_big3.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_blue_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/meiE/meiE_item_head_blue_small1.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_blue_small2.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_blue_small3.jpg"
+										}, {
+											"src": "../img/item_img/meiE/meiE_item_head_blue_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"version": [
+								{
+									"type_name":"内存容量",
+									"type": "32GB",
+									"price": 1299,
+									"has": 1
+								}
+							],
+							"package": [
+								{
+									"type": "官方标配",
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}, {
+									"type": "百城速达",
+									"point": 1
+								}, {
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":0,
+									"pid":1,
+									"img_src": "../img/item_img/mx6/mx6_item_list1.png",
+									"describe": "MX6 3G+32G版 1799元"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/meiE/meiE_item_details1.jpg"
+								}, {
+									"img_src": "../img/item_img/meiE/meiE_item_details2.jpg"
+								}, {
+									"img_src": "../img/item_img/meiE/meiE_item_details3.jpg"
+								}, {
+									"img_src": "../img/item_img/meiE/meiE_item_details4.jpg"
+								}, {
+									"img_src": "../img/item_img/meiE/meiE_item_details5.jpg"
+								}, {
+									"img_src": "../img/item_img/meiE/meiE_item_details6.jpg"
+								}, {
+									"img_src": "../img/item_img/meiE/meiE_item_details7.jpg"
+								}, {
+									"img_src": "../img/item_img/meiE/meiE_item_details8.jpg"
+								}, {
+									"img_src": "../img/item_img/meiE/meiE_item_details9.jpg"
+								}, {
+									"img_src": "../img/item_img/meiE/meiE_item_details10.jpg"
+								}, {
+									"img_src": "../img/item_img/meiE/meiE_item_details11.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "型号#魅蓝E"
+									},{
+										"info": "尺寸#153.6*75.8*7.9mm"
+									},{
+										"info": "电池容量#3100mAh"
+									},{
+										"info": "重量#172g"
+									}
+								],
+								"screen":[
+									{
+										"info": "屏幕尺寸#5.5英寸"
+									},{
+										"info": "分辨率#1920×1080"
+									}
+								],
+								"ram": "运行内存#3GB",
+								"processor":[
+									{
+										"info": "CPU#Helio P10 处理器"
+									},{
+										"info": "GPU#ARM Mali-T860 图形处理器"
+									}
+								],
+								"net": "网络模式#双卡多模",
+								"Camera":[
+									{
+										"info": "前置摄像头#500万像素"
+									},{
+										"info": "后置摄像头#1300万像素"
+									}
+								],
+								"system":"系统版本#Flyme powered by YunOS",
+								"include": [
+									{
+										"inc": "主机 x 1"
+									}, {
+										"inc": "电源适配器 x 1"
+									}, {
+										"inc": "保修证书 x 1"
+									}, {
+										"inc": "SIM卡顶针 x 1"
+									}, {
+										"inc": "数据线 x 1"
+									}
+								]
+							},
+							"FAQ": [
+								{
+									"Q": "魅蓝 E 的屏幕尺寸是多大？有哪几种颜色？机身材质？",
+									"A": "5.5 英寸、1080P，星空灰、月光银、香槟金、玫瑰金、冰川蓝，金属一体机身。"
+								}, {
+									"Q": "魅蓝 E 是否支持指纹识别？",
+									"A": "支持 mTouch 2.1，响应速度达 0.2s ，支持支付宝、微信的指纹支付。"
+								}, {
+									"Q": "魅蓝 E 屏幕采用什么工艺？",
+									"A": "魅蓝 E 屏幕采用什么工艺？"
+								}, {
+									"Q": "魅蓝 E 是否支持 TF 扩展？",
+									"A": "支持，最高可支持 128GB 扩展。"
+								}, {
+									"Q": "魅蓝 E 支持的网络有哪些？是否具备 VoLTE 语音通话技术？",
+									"A": "魅蓝 E 全网通版，即可满足中国移动、中国联通、中国电信三大运营商网络。支持 VoLTE 高清通话。"
+								}, {
+									"Q": "魅蓝 E 的 CPU 是用什么？",
+									"A": "Helio P10处理器。"
+								},  {
+									"Q": "魅蓝 E 的运行内存是多少？",
+									"A": "3G 运行内存。"
+								}, {
+									"Q": "魅蓝 E 后置摄像头是多少像素？采用哪颗 CMOS？",
+									"A": "1300 万像素，索尼 IMX258。"
+								}, {
+									"Q": "魅蓝 E 后置摄像头是否搭载相位对焦技术？",
+									"A": "搭载 PDAF 高速相位对焦，F/2.2 大光圈。"
+								}, {
+									"Q": "魅蓝 E 的电池规格？是否支持 mCharge 安全快充？",
+									"A": "3100 mAh，支持mCharge 安全快充，30 分钟 50%， 60 分钟 90% 。"
+								}, {
+									"Q": "魅蓝 E 搭载的操作系统？",
+									"A": "Flyme powered by YunOS。"
+								}
+							]
+						}
+					},
+					"11": {        
+						"details": {
+							"name": "魅蓝note3",
+							"describe": "本次活动订单，将于付款后7天内发货",
+							"price":799,
+							"net": [
+								{
+									"type": "全网通公开版",
+									"has": 1
+								},
+								{
+									"type": "全网通电信版",
+									"has": 1
+								},
+								{
+									"type": "移动定制版",
+									"has": 1
+								}
+							],
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "金色",
+									"img_src": "../img/item_img/note3/note3_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/note3/note3_item_head_gold_big1.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_gold_big2.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_gold_big3.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_gold_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/note3/note3_item_head_gold_small1.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_gold_small2.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_gold_small3.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_gold_small4.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "灰色",
+									"img_src": "../img/item_img/note3/note3_item_list2.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/note3/note3_item_head_gray_big1.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_gray_big2.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_gray_big3.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_gray_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/note3/note3_item_head_gray_small1.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_gray_small2.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_gray_small3.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_gray_small4.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "银色",
+									"img_src": "../img/item_img/note3/note3_item_list3.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/note3/note3_item_head_silver_big1.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_silver_big2.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_silver_big3.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_silver_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/note3/note3_item_head_silver_small1.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_silver_small2.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_silver_small3.jpg"
+										}, {
+											"src": "../img/item_img/note3/note3_item_head_silver_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"version": [
+								{
+									"type_name":"内存容量",
+									"type": "16GB",
+									"price": 799,
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":0,
+									"pid":1,
+									"img_src": "../img/item_img/mx6/mx6_item_list1.png",
+									"describe": "MX6 3G+32G版 1799元"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/note3/note3_item_details1.jpg"
+								}, {
+									"img_src": "../img/item_img/note3/note3_item_details2.jpg"
+								}, {
+									"img_src": "../img/item_img/note3/note3_item_details3.jpg"
+								}, {
+									"img_src": "../img/item_img/note3/note3_item_details4.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "型号#魅蓝note3"
+									},{
+										"info": "尺寸#153.6×75.5×8.2mm"
+									},{
+										"info": "电池容量#4100mAh"
+									},{
+										"info": "重量#163g"
+									}
+								],
+								"screen":[
+									{
+										"info": "屏幕尺寸#5.5英寸"
+									},{
+										"info": "分辨率#1920×1080"
+									}
+								],
+								"ram": "运行内存#2GB（仅限16G版本）、3GB（仅限32G版本）",
+								"processor":[
+									{
+										"info": "CPU#Helio P10 处理器"
+									},{
+										"info": "GPU#ARM Mali-T860 图形处理器"
+									}
+								],
+								"net": "网络模式#双卡多模",
+								"Camera":[
+									{
+										"info": "前置摄像头#500万像素"
+									},{
+										"info": "后置摄像头#1300万像素"
+									}
+								],
+								"system":"系统版本#Flyme 5.1",
+								"include": [
+									{
+										"inc": "主机 x 1"
+									}, {
+										"inc": "电源适配器 x 1"
+									}, {
+										"inc": "保修证书 x 1"
+									}, {
+										"inc": "SIM卡顶针 x 1"
+									}, {
+										"inc": "数据线 x 1"
+									}
+								]
+							},
+							"FAQ": [
+								{
+									"Q": "魅蓝 note3 的屏幕尺寸是多大？有哪几种颜色？",
+									"A": "魅蓝 note3 配备了一块 PPI 高达 403，分辨率为 1080P FHD 的 5.5 英寸大屏幕幕，并为其内置了先进的 MiraVision™ 2.0 屏显功能，艳丽不失清爽，同时让整机视觉观感与功耗控制上都拥有出色的均衡表现；魅蓝 note3 拥有前黑后灰、前白后金、前白后银，三种颜色搭配。"
+								}, {
+									"Q": "魅蓝 note 3 是否支持指纹识别？",
+									"A": "拥有出众口碑和出色体验的 mTouch 2.1，为 魅蓝 note3 带来了快达 0.2 秒的解锁时间，快不可觉。不仅如此，我们在这部极具性价比的手机中，打通了 mPay 与支付宝钱包的接口。在线下各大商店使用支付宝钱包可直接通过指纹支付，不仅便捷，更周全地保护了你的隐私。"
+								}, {
+									"Q": "魅蓝 note3 的机身与屏幕采用什么工艺？",
+									"A": "魅蓝 note3 的机身，源自备受国际一线厂商追捧的 6000 系列航空级铝镁合金，配合先进的阳极氧化工艺，造就了 魅蓝 note3 令人赞叹的非凡触感。2.5D 前面板与金属机身巧妙而无缝的衔接，并经多项优化，赋予了 魅蓝 note3 极简而精致的视觉风格，带来了更加圆润和舒适的握持感。"
+								}, {
+									"Q": "魅蓝 note3 是否支持双卡双待？是否支持 TF 扩展？",
+									"A": "魅蓝 note3 是双卡双待设计，全网通公开版可使用移动、联通或电信卡进行双卡组合，且不限制主副卡的安装位置，SIM 卡 1 和 SIM 卡 2 可启用 4G。魅蓝 note3 同时支持单 Nano SIM 卡 + TF 卡 扩展。"
+								}, {
+									"Q": "魅蓝 note3 支持的网络有哪些？是否具备 VoLTE 语音通话技术？",
+									"A": "魅蓝 note3 全网通公开版，全面支持国内三大运营商；同时，双卡双待和六模十八频让你可以在全球绝大多数国家通话无阻。只需进行简单设置，即可软切换运营商，无需重复换卡。更令人惊喜的是，魅蓝 note3 支持下一代语音通话技术 VoLTE，让语音质量极富表现力，更具临场感。 "
+								}, {
+									"Q": "魅蓝 note3 的 CPU 是用什么处理器？",
+									"A": "魅蓝 note3 采用了联发科 Helio P10 处理器。该处理器可以根据任务轻重，智能协调 CPU 和 GPU 的负荷，极大减少耗电死角，将「低功耗」推向一个全新的高度。同时，8 颗 A53 核心有力的确保了大型游戏等高负载场景的流畅运行；而 ARM 的 64 位旗舰 GPU Mali-T860，则保证了图像渲染、多媒体显示方面的出色表现。"
+								},  {
+									"Q": "魅蓝 note3 的运行内存是多少？",
+									"A": "魅蓝 note3 的 16G 版本配备 2GB 的运行内存，32G 版本配备 3GB 的运行内存，让系统在运行及程序切换时，体验更为流畅。"
+								}, {
+									"Q": "魅蓝 note3 前后摄像头分别多少像素？是否采用了相位对焦技术？",
+									"A": "魅蓝 note3 主摄像头为 1300 万像素，选用该领域优秀的传感器与 TrueBright ISP engine 技术，保证所拍摄照片及视频色彩画质都同样精美。凭借先进的 PDAF 相位对焦功能，你可在这块 5.5 英寸的「大取景器」上精准捕获更多细节。我们还升级了美颜算法，在使用 500 万像素前置摄像头自拍时，出片效果将更令你惊叹不已。暗光夜景等拍摄环境下，则可开启双色温闪光灯，结合全新的降噪处理来输出纯净、自然的画面。"
+								}, {
+									"Q": "魅蓝 note3 的电池规格？",
+									"A": "魅蓝 note3 在较上一代机身薄了 0.5mm 的前提下，装配了不可思议的 4100mAh 超大容量电池，容量整整提升了 32%。通过 Flyme 5.1 与 Helio P10 的无缝整合和深度优化，魅蓝 note3 拥有了更令人惊艳的续航表现，成为真正的续航神机。"
+								}
+							]
+						}
+					},
+					"19": {        
+						"details": {
+							"name": "魅族MX5e 经典版",
+							"describe": "标配EP-21HD耳机 支持花呗分期",
+							"price":1499,
+							"net": [
+								{
+									"type": "公开版",
+									"has": 1
+								}
+							],
+							"itemType": [
+								{
+									"type": "银白",
+									"img_src": "../img/item_img/mx5e/mx5e_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/mx5e/mx5e_item_head_silver_big1.jpg"
+										}, {
+											"src": "../img/item_img/mx5e/mx5e_item_head_silver_big2.jpg"
+										}, {
+											"src": "../img/item_img/mx5e/mx5e_item_head_silver_big3.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/mx5e/mx5e_item_head_silver_small1.jpg"
+										}, {
+											"src": "../img/item_img/mx5e/mx5e_item_head_silver_small2.jpg"
+										}, {
+											"src": "../img/item_img/mx5e/mx5e_item_head_silver_small3.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"version": [
+								{
+									"type_name":"内存容量",
+									"type": "16GB",
+									"price": 1499,
+									"has": 1
+								},
+								{
+									"type": "32GB",
+									"price": 1699,
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}, {
+									"type": "百城速达",
+									"point": 1
+								}, {
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":0,
+									"pid":5,
+									"img_src": "../img/item_img/max/max_item_list1.png",
+									"describe": "魅蓝Max 64G版 1699元起"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/mx5e/mx5e_item_details1.jpg"
+								}, {
+									"img_src": "../img/item_img/mx5e/mx5e_item_details2.jpg"
+								}, {
+									"img_src": "../img/item_img/mx5e/mx5e_item_details3.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "型号#MX5e"
+									},{
+										"info": "尺寸#149.9×74.7×7.6mm"
+									},{
+										"info": "电池容量#3150mAh"
+									},{
+										"info": "重量#149g"
+									}
+								],
+								"screen":[
+									{
+										"info": "屏幕尺寸#5.5英寸"
+									},{
+										"info": "分辨率#1920×1080"
+									}
+								],
+								"ram": "运行内存#3GB",
+								"processor":[
+									{
+										"info": "CPU#Helio X10 处理器"
+									},{
+										"info": "GPU#PowerVR G6200 图形处理器"
+									}
+								],
+								"net": "网络模式#双卡多模",
+								"Camera":[
+									{
+										"info": "前置摄像头#500万像素"
+									},{
+										"info": "后置摄像头#1600万像素"
+									}
+								],
+								"system":"系统版本#Flyme 5",
+								"include": [
+									{
+										"inc": "主机 x 1"
+									}, {
+										"inc": "电源适配器 x 1"
+									}, {
+										"inc": "保修证书 x 1"
+									}, {
+										"inc": "SIM卡顶针 x 1"
+									}, {
+										"inc": "数据线 x 1"
+									}, {
+										"inc": "EP-21HD耳机 x 1"
+									}
+								]
+							},
+							"FAQ": [
+								{
+									"Q": "怎样才算购买成功？",
+									"A": "由于系统设置为付款后减库存，所以拍下并不代表购买成功。为了确保购买成功，建议拍下后尽快完成付款。"
+								}, {
+									"Q": "MX5e 包装清单包含什么？",
+									"A": "魅族MX5e 经典版包装清单中包含：主机 x 1，电源适配器 x 1，保修证书 x 1，SIM卡顶针 x 1，数据线 x 1，EP-21HD耳机 x 1。"
+								}
+							]
+						}
+					},
+					"28": {        
+						"details": {
+							"name": "魅族MX5e 经典版",
+							"describe": "标配EP-21HD耳机 支持花呗分期",
+							"price":1499,
+							"net": [
+								{
+									"type": "公开版",
+									"has": 1
+								}
+							],
+							"itemType": [
+								{
+									"type": "银白",
+									"img_src": "../img/item_img/mx5e/mx5e_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/mx5e/mx5e_item_head_silver_big1.jpg"
+										}, {
+											"src": "../img/item_img/mx5e/mx5e_item_head_silver_big2.jpg"
+										}, {
+											"src": "../img/item_img/mx5e/mx5e_item_head_silver_big3.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/mx5e/mx5e_item_head_silver_small1.jpg"
+										}, {
+											"src": "../img/item_img/mx5e/mx5e_item_head_silver_small2.jpg"
+										}, {
+											"src": "../img/item_img/mx5e/mx5e_item_head_silver_small3.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"version": [
+								{
+									"type_name":"内存容量",
+									"type": "16GB",
+									"price": 1499,
+									"has": 1
+								},
+								{
+									"type": "32GB",
+									"price": 1699,
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}, {
+									"type": "百城速达",
+									"point": 1
+								}, {
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":0,
+									"pid":5,
+									"img_src": "../img/item_img/max/max_item_list1.png",
+									"describe": "魅蓝Max 64G版 1699元起"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/mx5e/mx5e_item_details1.jpg"
+								}, {
+									"img_src": "../img/item_img/mx5e/mx5e_item_details2.jpg"
+								}, {
+									"img_src": "../img/item_img/mx5e/mx5e_item_details3.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "型号#MX5e"
+									},{
+										"info": "尺寸#149.9×74.7×7.6mm"
+									},{
+										"info": "电池容量#3150mAh"
+									},{
+										"info": "重量#149g"
+									}
+								],
+								"screen":[
+									{
+										"info": "屏幕尺寸#5.5英寸"
+									},{
+										"info": "分辨率#1920×1080"
+									}
+								],
+								"ram": "运行内存#3GB",
+								"processor":[
+									{
+										"info": "CPU#Helio X10 处理器"
+									},{
+										"info": "GPU#PowerVR G6200 图形处理器"
+									}
+								],
+								"net": "网络模式#双卡多模",
+								"Camera":[
+									{
+										"info": "前置摄像头#500万像素"
+									},{
+										"info": "后置摄像头#1600万像素"
+									}
+								],
+								"system":"系统版本#Flyme 5",
+								"include": [
+									{
+										"inc": "主机 x 1"
+									}, {
+										"inc": "电源适配器 x 1"
+									}, {
+										"inc": "保修证书 x 1"
+									}, {
+										"inc": "SIM卡顶针 x 1"
+									}, {
+										"inc": "数据线 x 1"
+									}, {
+										"inc": "EP-21HD耳机 x 1"
+									}
+								]
+							},
+							"FAQ": [
+								{
+									"Q": "怎样才算购买成功？",
+									"A": "由于系统设置为付款后减库存，所以拍下并不代表购买成功。为了确保购买成功，建议拍下后尽快完成付款。"
+								}, {
+									"Q": "MX5e 包装清单包含什么？",
+									"A": "魅族MX5e 经典版包装清单中包含：主机 x 1，电源适配器 x 1，保修证书 x 1，SIM卡顶针 x 1，数据线 x 1，EP-21HD耳机 x 1。"
+								}
+							]
+						}
+					}
+				}
+			}, {
+				"lid": 1,
+				"descrition": "精品配件清单",
+				"List":{
+					"12": {        
+						"details": {
+							"name": "魅族 休闲旅行双肩包",
+							"describe": "曲面一体式设计 多功能隔层",
+							"price":199,
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "灰色",
+									"img_src": "../img/item_img/bag/bag_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/bag/bag_item_head_gray_big1.jpg"
+										}, {
+											"src": "../img/item_img/bag/bag_item_head_gray_big2.jpg"
+										}, {
+											"src": "../img/item_img/bag/bag_item_head_gray_big3.jpg"
+										}, {
+											"src": "../img/item_img/bag/bag_item_head_gray_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/bag/bag_item_head_gray_small1.jpg"
+										}, {
+											"src": "../img/item_img/bag/bag_item_head_gray_small2.jpg"
+										}, {
+											"src": "../img/item_img/bag/bag_item_head_gray_small3.jpg"
+										}, {
+											"src": "../img/item_img/bag/bag_item_head_gray_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "百城速递",
+									"point": 1
+								},
+								{
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/bag/bag_item_details1.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "品名#魅族-休闲旅行双肩包 "
+									}
+								]
+							}
+						}
+					},
+					"13": {        
+						"details": {
+							"name": "Loop Jacket环窗智能保护套（MX6）",
+							"describe": "个性表盘 随心搭配",
+							"price":99,
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "白色",
+									"img_src": "../img/item_img/smartCover/smartCover_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/smartCover/smartCover_item_head_white_big1.jpg"
+										}, {
+											"src": "../img/item_img/smartCover/smartCover_item_head_white_big2.jpg"
+										}, {
+											"src": "../img/item_img/smartCover/smartCover_item_head_white_big3.jpg"
+										}, {
+											"src": "../img/item_img/smartCover/smartCover_item_head_white_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/smartCover/smartCover_item_head_white_small1.jpg"
+										}, {
+											"src": "../img/item_img/smartCover/smartCover_item_head_white_small2.jpg"
+										}, {
+											"src": "../img/item_img/smartCover/smartCover_item_head_white_small3.jpg"
+										}, {
+											"src": "../img/item_img/smartCover/smartCover_item_head_white_small4.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "金色",
+									"img_src": "../img/item_img/smartCover/smartCover_item_list2.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/smartCover/smartCover_item_head_gold_big1.jpg"
+										}, {
+											"src": "../img/item_img/smartCover/smartCover_item_head_gold_big2.jpg"
+										}, {
+											"src": "../img/item_img/smartCover/smartCover_item_head_gold_big3.jpg"
+										}, {
+											"src": "../img/item_img/smartCover/smartCover_item_head_gold_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/smartCover/smartCover_item_head_gold_small1.jpg"
+										}, {
+											"src": "../img/item_img/smartCover/smartCover_item_head_gold_small2.jpg"
+										}, {
+											"src": "../img/item_img/smartCover/smartCover_item_head_gold_small3.jpg"
+										}, {
+											"src": "../img/item_img/smartCover/smartCover_item_head_gold_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "百城速递",
+									"point": 1
+								},
+								{
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/smartCover/smartCover_item_details1.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "品名#Loop Jacket环窗智能保护套（MX6）"
+									},{
+										"info": "适用机型#MX6 "
+									},{
+										"info": "分类#保护套"
+									}
+								]
+							}
+						}
+					},
+					"15": {        
+						"details": {
+							"name": "魅族 EP51蓝牙运动耳机",
+							"describe": "轻装上阵 乐享动听",
+							"price":269,
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "白色",
+									"img_src": "../img/item_img/EP51/EP51_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/EP51/EP51_item_head_white_big1.jpg"
+										}, {
+											"src": "../img/item_img/EP51/EP51_item_head_white_big2.jpg"
+										}, {
+											"src": "../img/item_img/EP51/EP51_item_head_white_big3.jpg"
+										}, {
+											"src": "../img/item_img/EP51/EP51_item_head_white_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/EP51/EP51_item_head_white_small1.jpg"
+										}, {
+											"src": "../img/item_img/EP51/EP51_item_head_white_small2.jpg"
+										}, {
+											"src": "../img/item_img/EP51/EP51_item_head_white_small3.jpg"
+										}, {
+											"src": "../img/item_img/EP51/EP51_item_head_white_small4.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "红黑",
+									"img_src": "../img/item_img/EP51/EP51_item_list2.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/EP51/EP51_item_head_redBlack_big1.jpg"
+										}, {
+											"src": "../img/item_img/EP51/EP51_item_head_redBlack_big2.jpg"
+										}, {
+											"src": "../img/item_img/EP51/EP51_item_head_redBlack_big3.jpg"
+										}, {
+											"src": "../img/item_img/EP51/EP51_item_head_redBlack_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/EP51/EP51_item_head_redBlack_small1.jpg"
+										}, {
+											"src": "../img/item_img/EP51/EP51_item_head_redBlack_small2.jpg"
+										}, {
+											"src": "../img/item_img/EP51/EP51_item_head_redBlack_small3.jpg"
+										}, {
+											"src": "../img/item_img/EP51/EP51_item_head_redBlack_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 1
+								},
+								{
+									"type": "百城速递",
+									"point": 1
+								},
+								{
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/EP51/EP51_item_details1.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "品名#EP-51"
+									},{
+										"info": "佩戴方式#入耳式"
+									},{
+										"info": "耳机类别#蓝牙运动耳机"
+									},{
+										"info": "有无麦克风#带麦"
+									},{
+										"info": "耳机类型#无线"
+									},{
+										"info": "兼容平台#Android  ios"
+									},{
+										"info": "缆线长度#0.55米"
+									}
+								],
+								"include":[
+									{
+										"inc":"充电线 x 1"
+									},{
+										"inc":"耳机 x 1"
+									},{
+										"inc":"S、L、XL硅胶套 x 1"
+									},{
+										"inc":"耳机收纳包 x 1"
+									}
+								]
+							}
+						}
+					},
+					"16": {        
+						"details": {
+							"name": "魅族HD50 头戴式耳机",
+							"describe": "附赠防水耳机包",
+							"price":399,
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "银黑",
+									"img_src": "../img/item_img/HD50/HD50_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/HD50/HD50_item_head_silverBlack_big1.jpg"
+										}, {
+											"src": "../img/item_img/HD50/HD50_item_head_silverBlack_big2.jpg"
+										}, {
+											"src": "../img/item_img/HD50/HD50_item_head_silverBlack_big3.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/HD50/HD50_item_head_silverBlack_small1.jpg"
+										}, {
+											"src": "../img/item_img/HD50/HD50_item_head_silverBlack_small2.jpg"
+										}, {
+											"src": "../img/item_img/HD50/HD50_item_head_silverBlack_small3.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "银白",
+									"img_src": "../img/item_img/HD50/HD50_item_list2.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/HD50/HD50_item_head_silver_big1.jpg"
+										}, {
+											"src": "../img/item_img/HD50/HD50_item_head_silver_big2.jpg"
+										}, {
+											"src": "../img/item_img/HD50/HD50_item_head_silver_big3.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/HD50/HD50_item_head_silver_small1.jpg"
+										}, {
+											"src": "../img/item_img/HD50/HD50_item_head_silver_small2.jpg"
+										}, {
+											"src": "../img/item_img/HD50/HD50_item_head_silver_small3.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type": "红色",
+									"img_src": "../img/item_img/HD50/HD50_item_list3.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/HD50/HD50_item_head_red_big1.jpg"
+										}, {
+											"src": "../img/item_img/HD50/HD50_item_head_red_big2.jpg"
+										}, {
+											"src": "../img/item_img/HD50/HD50_item_head_red_big3.jpg"
+										}, {
+											"src": "../img/item_img/HD50/HD50_item_head_red_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/HD50/HD50_item_head_red_small1.jpg"
+										}, {
+											"src": "../img/item_img/HD50/HD50_item_head_red_small2.jpg"
+										}, {
+											"src": "../img/item_img/HD50/HD50_item_head_red_small3.jpg"
+										}, {
+											"src": "../img/item_img/HD50/HD50_item_head_red_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 1
+								},
+								{
+									"type": "百城速递",
+									"point": 1
+								},
+								{
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":1,
+									"pid":15,
+									"img_src": "../img/item_img/EP51/EP51_item_list1.png",
+									"describe": "魅族 EP51蓝牙运动耳机"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/HD50/HD50_item_details1.jpg"
+								},
+								{
+									"img_src": "../img/item_img/HD50/HD50_item_details2.jpg"
+								},
+								{
+									"img_src": "../img/item_img/HD50/HD50_item_details3.jpg"
+								},
+								{
+									"img_src": "../img/item_img/HD50/HD50_item_details4.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "品名#HD50"
+									},{
+										"info": "佩戴方式#头戴式"
+									},{
+										"info": "耳机类别#HIFI耳机    手机线控耳机"
+									},{
+										"info": "有无麦克风#带麦"
+									},{
+										"info": "耳机类型#有线"
+									},{
+										"info": "兼容平台#Android"
+									},{
+										"info": "缆线长度#1.2米"
+									}
+								],
+								"sound":"频响范围#20-20,000Hz",
+								"include":[
+									{
+										"inc":"主机 x 1"
+									},{
+										"inc":"耳机包 x 1"
+									},{
+										"inc":"功放转接头 x 1"
+									},{
+										"inc":"航空转接头 x 1"
+									},{
+										"inc":"耳机线 x 1"
+									}
+								]
+							}
+						}
+					},
+					"17": {        
+						"details": {
+							"name": "魅族移动电源 快充版",
+							"describe": "独特双层注塑 精密工艺打磨",
+							"price":149,
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "灰白色",
+									"img_src": "../img/item_img/battery/battery_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/battery/battery_item_head_garyWhite_big1.jpg"
+										}, {
+											"src": "../img/item_img/battery/battery_item_head_garyWhite_big2.jpg"
+										}, {
+											"src": "../img/item_img/battery/battery_item_head_garyWhite_big3.jpg"
+										}, {
+											"src": "../img/item_img/battery/battery_item_head_garyWhite_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/battery/battery_item_head_garyWhite_small1.jpg"
+										}, {
+											"src": "../img/item_img/battery/battery_item_head_garyWhite_small2.jpg"
+										}, {
+											"src": "../img/item_img/battery/battery_item_head_garyWhite_small3.jpg"
+										}, {
+											"src": "../img/item_img/battery/battery_item_head_garyWhite_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/battery/battery_item_details1.jpg"
+								},
+								{
+									"img_src": "../img/item_img/battery/battery_item_details2.jpg"
+								},
+								{
+									"img_src": "../img/item_img/battery/battery_item_details3.jpg"
+								},
+								{
+									"img_src": "../img/item_img/battery/battery_item_details4.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "品名#魅族移动电源 快充版"
+									},{
+										"info": "电池容量#10000mAh"
+									},{
+										"info": "材质#聚碳酸酯/磨砂半透明聚碳酸酯"
+									},{
+										"info": "尺寸#143.5*75.6*17.4 mm"
+									},{
+										"info": "功能#快充技术"
+									},{
+										"info": "重量#235g"
+									}
+								],
+								"elc":[
+									{
+										"type_name":"电压电流",
+										"inc":"输入电压#5V-12V/2A(MAX)"
+									},
+									{
+										"inc":"输出电压#5V/2A,9V/2A"
+									}
+								]
+							}
+						}
+					},
+					"18": {        
+						"details": {
+							"name": "魅族移动电源（标准版）",
+							"describe": "素雅百搭 颜值典范",
+							"price":99,
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "灰白色",
+									"img_src": "../img/item_img/battery(standard)/battery(standard)_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/battery(standard)/battery(standard)_item_head_garyWhite_big1.jpg"
+										}, {
+											"src": "../img/item_img/battery(standard)/battery(standard)_item_head_garyWhite_big2.jpg"
+										}, {
+											"src": "../img/item_img/battery(standard)/battery(standard)_item_head_garyWhite_big3.jpg"
+										}, {
+											"src": "../img/item_img/battery(standard)/battery(standard)_item_head_garyWhite_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/battery(standard)/battery(standard)_item_head_garyWhite_small1.jpg"
+										}, {
+											"src": "../img/item_img/battery(standard)/battery(standard)_item_head_garyWhite_small2.jpg"
+										}, {
+											"src": "../img/item_img/battery(standard)/battery(standard)_item_head_garyWhite_small3.jpg"
+										}, {
+											"src": "../img/item_img/battery(standard)/battery(standard)_item_head_garyWhite_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/battery(standard)/battery(standard)_item_details1.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "品名#魅族移动电源（标准版）"
+									},{
+										"info": "电池容量#10000mAh"
+									},{
+										"info": "材质#聚碳酸酯"
+									},{
+										"info": "尺寸#143.5*75.6*17.4 mm"
+									},{
+										"info": "重量#约229g"
+									}
+								],
+								"else":[
+									{
+										"type_name":"电压电流",
+										"inc":"输入电压#5V/2A"
+									},
+									{
+										"inc":"输出电压#5V/2A"
+									}
+								]
+							}
+						}
+					},
+					"19": {        
+						"details": {
+							"name": "魅族 Lifeme BTS30 蓝牙音箱",
+							"describe": "对称设计 小而灵巧 低功耗 享受音乐的别样精彩",
+							"price":399,
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type": "灰色",
+									"img_src": "../img/item_img/BTS30/BTS30_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/BTS30/BTS30_item_head_gary_big1.jpg"
+										}, {
+											"src": "../img/item_img/BTS30/BTS30_item_head_gary_big2.jpg"
+										}, {
+											"src": "../img/item_img/BTS30/BTS30_item_head_gary_big3.jpg"
+										}, {
+											"src": "../img/item_img/BTS30/BTS30_item_head_gary_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/BTS30/BTS30_item_head_gary_small1.jpg"
+										}, {
+											"src": "../img/item_img/BTS30/BTS30_item_head_gary_small2.jpg"
+										}, {
+											"src": "../img/item_img/BTS30/BTS30_item_head_gary_small3.jpg"
+										}, {
+											"src": "../img/item_img/BTS30/BTS30_item_head_gary_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/BTS30/BTS30_item_details1.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "型号#Lifeme BTS30 蓝牙音箱"
+									},{
+										"info": "尺寸#96*40*185mm"
+									},{
+										"info": "重量#685g"
+									}
+								],
+								"else":[
+									{
+										"type_name":"其他参数",
+										"inc":"蓝牙版本#Bluetooth 4.0版本"
+									},
+									{
+										"inc":"连接方式#蓝牙连接"
+									},
+									{
+										"inc":"有效距离#10米"
+									}
+								]
+							}
+						}
+					}
+				}
+			}, {
+				"lid": 2,
+				"descrition": "智能硬件清单",
+				"List":{
+					"14": {        
+						"details": {
+							"name": "魅族路由器 极速版",
+							"describe": "9月22日起，购买极速路由器即赠网线一条",
+							"price":199,
+							"itemType": [
+								{
+									"item_big_img": [
+										{
+											"src": "../img/item_img/router/router_item_head_big1.jpg"
+										}, {
+											"src": "../img/item_img/router/router_item_head_big2.jpg"
+										}, {
+											"src": "../img/item_img/router/router_item_head_big3.jpg"
+										}, {
+											"src": "../img/item_img/router/router_item_head_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/router/router_item_head_small1.jpg"
+										}, {
+											"src": "../img/item_img/router/router_item_head_small2.jpg"
+										}, {
+											"src": "../img/item_img/router/router_item_head_small3.jpg"
+										}, {
+											"src": "../img/item_img/router/router_item_head_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"version":[
+								{
+									"type_name":"频段",
+									"type": "2.4/5GHz",
+									"price":199
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								},
+								{
+									"type": "百城速递",
+									"point": 1
+								},
+								{
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/router/router_item_details1.jpg"
+								},
+								{
+									"img_src": "../img/item_img/router/router_item_details2.jpg"
+								},
+								{
+									"img_src": "../img/item_img/router/router_item_details3.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "品名#路由器极速版"
+									},{
+										"info": "尺寸#152*110*20mm"
+									},{
+										"info": "重量#207g"
+									},{
+										"info": "颜色分类#白色"
+									},{
+										"info": "无线传输率2.4Gwifi#2*2（IEEE 802.11b/g/n，最高速率300Mbps）"
+									},{
+										"info": "无线传输率5Gwifi#2*2（IEEE 802.11a/n/ac，最高速率867Mbps）"
+									}
+								],
+								"include": [
+									{
+										"inc": "说明书 x 1"
+									}, {
+										"inc": "三包卡 x 1"
+									}, {
+										"inc": "路由器 x 1"
+									}, {
+										"inc": "Micro USB电源 x 1"
+									}
+								]
+							}
+						}
+					},
+					"27": {        
+						"details": {
+							"name": "魅族智能路由器",
+							"describe": "简单便携 即插即用",
+							"price":99,
+							"itemType": [
+								{
+									"img_src": "../img/item_img/intRouter/intRouter_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/intRouter/intRouter_item_head_big1.jpg"
+										}, {
+											"src": "../img/item_img/intRouter/intRouter_item_head_big2.jpg"
+										}, {
+											"src": "../img/item_img/intRouter/intRouter_item_head_big3.jpg"
+										}, {
+											"src": "../img/item_img/intRouter/intRouter_item_head_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/intRouter/intRouter_item_head_small1.jpg"
+										}, {
+											"src": "../img/item_img/intRouter/intRouter_item_head_small2.jpg"
+										}, {
+											"src": "../img/item_img/intRouter/intRouter_item_head_small3.jpg"
+										}, {
+											"src": "../img/item_img/intRouter/intRouter_item_head_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"version":[
+								{
+									"type_name":"频段",
+									"type": "2.4GHz",
+									"price":99
+								},
+								{
+									"type": "5GHz",
+									"price":169
+								}
+							],
+							"support": [
+								{
+									"type": "顺丰包邮",
+									"point": 0
+								}, {
+									"type": "7天无理由退货",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":2,
+									"pid":14,
+									"img_src": "../img/item_img/router/router_item_head_small1.jpg",
+									"describe": "魅族极速路由器"
+								},
+								{
+									"cid":2,
+									"pid":20,
+									"img_src": "../img/item_img/TB01/TB01_item_list1.png",
+									"describe": "迅雷下载宝 TB01"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/intRouter/intRouter_item_details1.jpg"
+								},
+								{
+									"img_src": "../img/item_img/intRouter/intRouter_item_details2.jpg"
+								},
+								{
+									"img_src": "../img/item_img/intRouter/intRouter_item_details3.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#魅族"
+									},{
+										"info": "品名#智能路由器 2.4G版"
+									},{
+										"info": "尺寸#直径67mm 高23mm"
+									},{
+										"info": "重量#2.4G版186g；5G版196g"
+									},{
+										"info": "颜色分类#白色"
+									},{
+										"info": "无线传输率2.4Gwifi#最高速率可达300Mbps"
+									},{
+										"info": "无线传输率5Gwifi#最高速率可达433Mbps"
+									}
+								],
+								"include":[
+									{
+										"inc":"说明书 x 1"
+									},
+									{
+										"inc":"三包卡 x 1"
+									}
+								]
+							}
+						}
+					},
+					"20": {        
+						"details": {
+							"name": "迅雷下载宝 TB01",
+							"describe": "路由器伴侣 追剧不等待 智能设备",
+							"price":99,
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type":"白色",
+									"img_src": "../img/item_img/TB01/TB01_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/TB01/TB01_item_head_big1.jpg"
+										}, {
+											"src": "../img/item_img/TB01/TB01_item_head_big2.jpg"
+										}, {
+											"src": "../img/item_img/TB01/TB01_item_head_big3.jpg"
+										}, {
+											"src": "../img/item_img/TB01/TB01_item_head_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/TB01/TB01_item_head_small1.jpg"
+										}, {
+											"src": "../img/item_img/TB01/TB01_item_head_small2.jpg"
+										}, {
+											"src": "../img/item_img/TB01/TB01_item_head_small3.jpg"
+										}, {
+											"src": "../img/item_img/TB01/TB01_item_head_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":2,
+									"pid":14,
+									"img_src": "../img/item_img/router/router_item_head_small1.jpg",
+									"describe": "魅族极速路由器"
+								},
+								{
+									"cid":2,
+									"pid":27,
+									"img_src": "../img/item_img/intRouter/intRouter_item_head_small1.jpg",
+									"describe": "魅族智能路由器"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/TB01/TB01_item_details1.jpg"
+								},
+								{
+									"img_src": "../img/item_img/TB01/TB01_item_details2.jpg"
+								},
+								{
+									"img_src": "../img/item_img/TB01/TB01_item_details3.jpg"
+								},
+								{
+									"img_src": "../img/item_img/TB01/TB01_item_details4.jpg"
+								},
+								{
+									"img_src": "../img/item_img/TB01/TB01_item_details5.jpg"
+								},
+								{
+									"img_src": "../img/item_img/TB01/TB01_item_details6.jpg"
+								},
+								{
+									"img_src": "../img/item_img/TB01/TB01_item_details7.jpg"
+								},
+								{
+									"img_src": "../img/item_img/TB01/TB01_item_details8.jpg"
+								},
+								{
+									"img_src": "../img/item_img/TB01/TB01_item_details9.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#迅雷"
+									},{
+										"info": "品名#TB01"
+									},{
+										"info": "重量#毛重228.5g"
+									},{
+										"info": "尺寸#87*90*22"
+									}
+								]
+							}
+						}
+					},
+					"21": {        
+						"details": {
+							"name": "航嘉MINI-MX2 USB扩展转换器",
+							"describe": "2口USB支持2.1A快充",
+							"price":28,
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type":"皓月白",
+									"img_src": "../img/item_img/MINI-MX2/MINI-MX2_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/MINI-MX2/MINI-MX2_item_head_big1.jpg"
+										}, {
+											"src": "../img/item_img/MINI-MX2/MINI-MX2_item_head_big2.jpg"
+										}, {
+											"src": "../img/item_img/MINI-MX2/MINI-MX2_item_head_big3.jpg"
+										}, {
+											"src": "../img/item_img/MINI-MX2/MINI-MX2_item_head_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/MINI-MX2/MINI-MX2_item_head_small1.jpg"
+										}, {
+											"src": "../img/item_img/MINI-MX2/MINI-MX2_item_head_small2.jpg"
+										}, {
+											"src": "../img/item_img/MINI-MX2/MINI-MX2_item_head_small3.jpg"
+										}, {
+											"src": "../img/item_img/MINI-MX2/MINI-MX2_item_head_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/MINI-MX2/MINI-MX2_item_details1.jpg"
+								},
+								{
+									"img_src": "../img/item_img/MINI-MX2/MINI-MX2_item_details2.jpg"
+								},
+								{
+									"img_src": "../img/item_img/MINI-MX2/MINI-MX2_item_details3.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#航嘉"
+									},{
+										"info": "品名#转换器MINI-MX2"
+									},{
+										"info": "产品尺寸#95×55×32mm"
+									},{
+										"info": "工作电压#AC100-250V，USB5V-2.1A"
+									}
+								]
+							}
+						}
+					},
+					"22": {        
+						"details": {
+							"name": "极路客 ( Goluk )G1 智能行车记录仪",
+							"describe": "精彩抓拍、一键分享、随时直播",
+							"price":299,
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type":"黑色",
+									"img_src": "../img/item_img/G1/G1_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/G1/G1_item_head_big1.jpg"
+										}, {
+											"src": "../img/item_img/G1/G1_item_head_big2.jpg"
+										}, {
+											"src": "../img/item_img/G1/G1_item_head_big3.jpg"
+										}, {
+											"src": "../img/item_img/G1/G1_item_head_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/G1/G1_item_head_small1.jpg"
+										}, {
+											"src": "../img/item_img/G1/G1_item_head_small2.jpg"
+										}, {
+											"src": "../img/item_img/G1/G1_item_head_small3.jpg"
+										}, {
+											"src": "../img/item_img/G1/G1_item_head_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/G1/G1_item_details1.jpg"
+								},
+								{
+									"img_src": "../img/item_img/G1/G1_item_details2.jpg"
+								},
+								{
+									"img_src": "../img/item_img/G1/G1_item_details3.jpg"
+								},
+								{
+									"img_src": "../img/item_img/G1/G1_item_details4.jpg"
+								},
+								{
+									"img_src": "../img/item_img/G1/G1_item_details5.jpg"
+								},
+								{
+									"img_src": "../img/item_img/G1/G1_item_details6.jpg"
+								},
+								{
+									"img_src": "../img/item_img/G1/G1_item_details7.jpg"
+								},
+								{
+									"img_src": "../img/item_img/G1/G1_item_details8.jpg"
+								},
+								{
+									"img_src": "../img/item_img/G1/G1_item_details9.jpg"
+								},
+								{
+									"img_src": "../img/item_img/G1/G1_item_details10.jpg"
+								},
+								{
+									"img_src": "../img/item_img/G1/G1_item_details11.jpg"
+								},
+								{
+									"img_src": "../img/item_img/G1/G1_item_details12.jpg"
+								},
+								{
+									"img_src": "../img/item_img/G1/G1_item_details13.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#极路客"
+									},{
+										"info": "品名#G1黑武士"
+									}
+								]
+							},
+							"FAQ": [
+								{
+									"Q": "极路客的特色",
+									"A": "1、极路客是全球首款支持网络直播的行车记录仪； 2、极路客除去普通的行车记录、汽车安防功能；还可以进行视频的直播、分享等操作；后期我们的直播中添加对讲等互动性的功能。是一款非常好玩儿的行车记录仪。 3、极路客App客户端是目前市面上，连接摄像头的同时，仍然可以使用上网服务的一款记录仪产品。"
+								}, {
+									"Q": "极路客产品都有哪些内容？",
+									"A": "极路客行车记录仪主机头、充电线、充电插头、支架、卡扣、遥控器、遥控器电池、3M胶、说明书等相关配件。"
+								}, {
+									"Q": "极路客如何工作？",
+									"A": "1、首先将极路客内装上TF存储卡，存储卡要求为class 10 、读速在30； 2、极路客直接连接充电电源，即开始工作；"
+								}, {
+									"Q": "极路客都能录制什么样的视频？",
+									"A": "极路客智能行车记录仪，除去基本的循环视频录制外；当用户看到精彩或美丽的顺间，可按极路客遥控按钮，抓拍精彩视频；而当汽车出现紧急刹车或碰撞的顺间，记录仪会自动产生紧急视频，抓拍到事故的顺间。同时，对于成功抓拍的视频，还可以通过极路客APP进行视频的分享和直播，让成千上万的人看到你的视频，分享你的景色。"
+								}, {
+									"Q": "什么是循环视频？",
+									"A": "极路客连接电源后，自动开始循环视频录制。每3分钟一段视频内容，不间断录制；例如本段时间为10：00-10：03；下一段视频为10：04-10：07；当存储空间满后会自动替换或覆盖。"
+								}, {
+									"Q": "录制的视频是什么格式？",
+									"A": "极路客行车记录仪的录制视频为MP4格式。"
+								},  {
+									"Q": "极路客软件大小",
+									"A": "Android版本41M；IOS版本62.5M；后期还会根据更新改变软件大小。"
+								}, {
+									"Q": "极路客的工作电流是多少？",
+									"A": "在工作时为500；待机状态上是120；"
+								}, {
+									"Q": "极路客的录制距离是多少？",
+									"A": "可清晰查看10米内的车牌信息。"
+								}, {
+									"Q": "极路客的输入电压是多少？",
+									"A": "正常是5V/1A，2A也是可以使用的。但不能小于1A。"
+								}
+							]
+						}
+					},
+					"23": {        
+						"details": {
+							"name": "北通阿修罗TE版无线震动游戏手柄",
+							"describe": "支持PC、PC360、安卓4.0以上、PS3四大平台",
+							"price":158,
+							"version":[
+								{
+									"type_name":"版&ensp;&ensp;&ensp;&ensp;本",
+									"type":"阿修罗TE",
+									"price":158
+								}
+							],
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type":"白色",
+									"img_src": "../img/item_img/handle/handle_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/handle/handle_item_head_white_big1.jpg"
+										}, {
+											"src": "../img/item_img/handle/handle_item_head_white_big2.jpg"
+										}, {
+											"src": "../img/item_img/handle/handle_item_head_white_big3.jpg"
+										}, {
+											"src": "../img/item_img/handle/handle_item_head_white_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/handle/handle_item_head_white_small1.jpg"
+										}, {
+											"src": "../img/item_img/handle/handle_item_head_white_small2.jpg"
+										}, {
+											"src": "../img/item_img/handle/handle_item_head_white_small3.jpg"
+										}, {
+											"src": "../img/item_img/handle/handle_item_head_white_small4.jpg"
+										}
+									],
+									"has": 1
+								},
+								{
+									"type":"黑色",
+									"img_src": "../img/item_img/handle/handle_item_list2.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/handle/handle_item_head_black_big1.jpg"
+										}, {
+											"src": "../img/item_img/handle/handle_item_head_black_big2.jpg"
+										}, {
+											"src": "../img/item_img/handle/handle_item_head_black_big3.jpg"
+										}, {
+											"src": "../img/item_img/handle/handle_item_head_black_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/handle/handle_item_head_black_small1.jpg"
+										}, {
+											"src": "../img/item_img/handle/handle_item_head_black_small2.jpg"
+										}, {
+											"src": "../img/item_img/handle/handle_item_head_black_small3.jpg"
+										}, {
+											"src": "../img/item_img/handle/handle_item_head_black_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":2,
+									"pid":20,
+									"img_src": "../img/item_img/TB01/TB01_item_list1.png",
+									"describe": "迅雷下载宝"
+								},
+								{
+									"cid":2,
+									"pid":21,
+									"img_src": "../img/item_img/MINI-MX2/MINI-MX2_item_list1.png",
+									"describe": "航嘉MINI-MX2 USB扩展转换器"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/handle/handle_item_details1.jpg"
+								},
+								{
+									"img_src": "../img/item_img/handle/handle_item_details2.jpg"
+								},
+								{
+									"img_src": "../img/item_img/handle/handle_item_details3.jpg"
+								},
+								{
+									"img_src": "../img/item_img/handle/handle_item_details4.jpg"
+								},
+								{
+									"img_src": "../img/item_img/handle/handle_item_details5.jpg"
+								},
+								{
+									"img_src": "../img/item_img/handle/handle_item_details6.jpg"
+								},
+								{
+									"img_src": "../img/item_img/handle/handle_item_details7.jpg"
+								},
+								{
+									"img_src": "../img/item_img/handle/handle_item_details8.jpg"
+								},
+								{
+									"img_src": "../img/item_img/handle/handle_item_details9.jpg"
+								},
+								{
+									"img_src": "../img/item_img/handle/handle_item_details10.jpg"
+								},
+								{
+									"img_src": "../img/item_img/handle/handle_item_details11.jpg"
+								},
+								{
+									"img_src": "../img/item_img/handle/handle_item_details12.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#北通"
+									},{
+										"info": "型号#BTP-2185"
+									},{
+										"info": "材质#pvp"
+									},{
+										"info": "重量#800g"
+									},{
+										"info": "兼容平台#Android"
+									},{
+										"info": "接口类型#Micro USB"
+									},{
+										"info": "电池容量#550 mAh"
+									}
+								]
+							}
+						}
+					},
+					"24": {        
+						"details": {
+							"name": "罗马仕AC10快充适配器",
+							"describe": "支持MTK快充模式",
+							"price":39,
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type":"白色",
+									"img_src": "../img/item_img/AC10/AC10_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/AC10/AC10_item_head_white_big1.jpg"
+										}, {
+											"src": "../img/item_img/AC10/AC10_item_head_white_big2.jpg"
+										}, {
+											"src": "../img/item_img/AC10/AC10_item_head_white_big3.jpg"
+										}, {
+											"src": "../img/item_img/AC10/AC10_item_head_white_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/AC10/AC10_item_head_white_small1.jpg"
+										}, {
+											"src": "../img/item_img/AC10/AC10_item_head_white_small2.jpg"
+										}, {
+											"src": "../img/item_img/AC10/AC10_item_head_white_small3.jpg"
+										}, {
+											"src": "../img/item_img/AC10/AC10_item_head_white_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":2,
+									"pid":23,
+									"img_src": "../img/item_img/handle/handle_item_list1.png",
+									"describe": "北通阿修罗TE版无线震动游戏手柄"
+								},
+								{
+									"cid":2,
+									"pid":21,
+									"img_src": "../img/item_img/MINI-MX2/MINI-MX2_item_list1.png",
+									"describe": "航嘉MINI-MX2 USB扩展转换器"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/AC10/AC10_item_details1.jpg"
+								},
+								{
+									"img_src": "../img/item_img/AC10/AC10_item_details2.jpg"
+								},
+								{
+									"img_src": "../img/item_img/AC10/AC10_item_details3.jpg"
+								},
+								{
+									"img_src": "../img/item_img/AC10/AC10_item_details4.jpg"
+								},
+								{
+									"img_src": "../img/item_img/AC10/AC10_item_details5.jpg"
+								},
+								{
+									"img_src": "../img/item_img/AC10/AC10_item_details6.jpg"
+								},
+								{
+									"img_src": "../img/item_img/AC10/AC10_item_details7.jpg"
+								},
+								{
+									"img_src": "../img/item_img/AC10/AC10_item_details8.jpg"
+								},
+								{
+									"img_src": "../img/item_img/AC10/AC10_item_details9.jpg"
+								},
+								{
+									"img_src": "../img/item_img/AC10/AC10_item_details10.jpg"
+								},
+								{
+									"img_src": "../img/item_img/AC10/AC10_item_details11.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#ROMOSS/罗马仕"
+									},{
+										"info": "型号#A10"
+									},{
+										"info": "适用机型#智能手机/平板电脑"
+									}
+								],
+								"else":[
+									{
+										"type_name":"电压电流",
+										"inc":"输入电压#AC100-240V 50/60Hz 0.5A"
+									},{
+										"inc":"输出电压#DC5V 2.1A 9V1.5A 12V1A"
+									}
+								],
+								"include": [
+									{
+										"inc": "主机 x 1"
+									}, {
+										"inc": "说明书 x 1"
+									}
+								]
+							}
+						}
+					},
+					"25": {        
+						"details": {
+							"name": "铭魔印象迷你补光美颜镜蓝牙版自拍杆",
+							"describe": "全新升级补光美颜靓肤蓝牙续航30天",
+							"price":69,
+							"itemType": [
+								{
+									"type_name":"颜色分类",
+									"type":"玫瑰金",
+									"img_src": "../img/item_img/phoneHandle/phoneHandle_item_list1.png",
+									"item_big_img": [
+										{
+											"src": "../img/item_img/phoneHandle/phoneHandle_item_head_big1.jpg"
+										}, {
+											"src": "../img/item_img/phoneHandle/phoneHandle_item_head_big2.jpg"
+										}, {
+											"src": "../img/item_img/phoneHandle/phoneHandle_item_head_big3.jpg"
+										}, {
+											"src": "../img/item_img/phoneHandle/phoneHandle_item_head_big4.jpg"
+										}
+									],
+									"item_small_img": [
+										{
+											"src": "../img/item_img/phoneHandle/phoneHandle_item_head_small1.jpg"
+										}, {
+											"src": "../img/item_img/phoneHandle/phoneHandle_item_head_small2.jpg"
+										}, {
+											"src": "../img/item_img/phoneHandle/phoneHandle_item_head_small3.jpg"
+										}, {
+											"src": "../img/item_img/phoneHandle/phoneHandle_item_head_small4.jpg"
+										}
+									],
+									"has": 1
+								}
+							],
+							"support": [
+								{
+									"type": "花呗分期",
+									"point": 0
+								}
+							],
+							"more": [
+								 {
+									"cid":2,
+									"pid":23,
+									"img_src": "../img/item_img/handle/handle_item_list1.png",
+									"describe": "北通阿修罗TE版无线震动游戏手柄"
+								},
+								{
+									"cid":2,
+									"pid":21,
+									"img_src": "../img/item_img/MINI-MX2/MINI-MX2_item_list1.png",
+									"describe": "航嘉MINI-MX2 USB扩展转换器"
+								}
+							],
+							"item_details": [
+								{
+									"img_src": "../img/item_img/phoneHandle/phoneHandle_item_details1.jpg"
+								},
+								{
+									"img_src": "../img/item_img/phoneHandle/phoneHandle_item_details2.jpg"
+								},
+								{
+									"img_src": "../img/item_img/phoneHandle/phoneHandle_item_details3.jpg"
+								},
+								{
+									"img_src": "../img/item_img/phoneHandle/phoneHandle_item_details4.jpg"
+								},
+								{
+									"img_src": "../img/item_img/phoneHandle/phoneHandle_item_details5.jpg"
+								},
+								{
+									"img_src": "../img/item_img/phoneHandle/phoneHandle_item_details6.jpg"
+								},
+								{
+									"img_src": "../img/item_img/phoneHandle/phoneHandle_item_details7.jpg"
+								},
+								{
+									"img_src": "../img/item_img/phoneHandle/phoneHandle_item_details8.jpg"
+								},
+								{
+									"img_src": "../img/item_img/phoneHandle/phoneHandle_item_details9.jpg"
+								},
+								{
+									"img_src": "../img/item_img/phoneHandle/phoneHandle_item_details10.jpg"
+								},
+								{
+									"img_src": "../img/item_img/phoneHandle/phoneHandle_item_details11.jpg"
+								}
+							],
+							"parameter": {
+								"main_info":[
+									{
+										"info": "品牌#SMORSS/铭摩印象"
+									},{
+										"info": "型号#SRB01-Luxury"
+									},{
+										"info": "最大可伸缩长度#190-860mm"
+									}
+								],
+								"else":[
+									{
+										"type_name":"其他参数",
+										"inc":"连接方式#蓝牙连接"
+									}
+								],
+								"include": [
+									 {
+										"inc": "说明书 x 1"
+									},{
+										"inc": "充电线 x 1"
+									},{
+										"inc": "挂绳 x 1"
+									},{
+										"inc": "自拍杆 × 1 "
+									},{
+										"inc": "防水袋 x 1"
+									},{
+										"inc": "安全绳 x 1"
+									}
+								]
+							}
+						}
+					}
+				}
+			}
+		]
+	}
+}
+
+
+

@@ -1,0 +1,80 @@
+@charset "utf-8";
+
+.main p {
+	margin-bottom: 10px;
+}
+.main p strong {
+	top: 50px;
+	text-align: left;
+}
+.main .p4 .iconfont {
+	left: 310px;
+}
+.main .p4 .word {
+	left: 340px;
+}
+.point {
+	display: block;
+	right: 0;
+	top: 50%;
+	margin-top: -28px;
+	padding: 0 6px;
+	border-left: 1px solid #ddd;
+	width: 80px;
+	height: 36px;
+	font-size: 15px;
+	line-height: 36px;
+	text-align: center;
+	cursor: pointer;
+}
+.check input {
+	margin-top: 4px !important;
+	margin-right: 6px !important;
+}
+.check label {
+	font-size: 14px!important;
+}
+.check a {
+	font-size: 14px!important;
+	color:#21A9E7;
+}
+.check a:hover {
+	color:#1395E4;
+}
+
+h1 {
+	margin: 10px 0;
+	padding: 10px 0;
+	border-bottom: 2px solid #08C3F5;
+	color:#00C3F5;
+	text-align: center;
+}
+
+.iconfont {
+	display: none;
+	top: 8px;
+	left: 272px;
+	font-family:"iconfont" !important;
+    font-size:20px;
+    font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;
+}
+.right {
+	color:#67B168;
+}
+.fail {
+	color: red;
+}
+.word {
+	top: 16px;
+	left: 310px;
+	width:auto;
+	color: red;
+	white-space: nowrap;
+}
+
+.p1 {
+	margin-top: 20px;
+}

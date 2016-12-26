@@ -1,0 +1,81 @@
+{
+    "error_code": 200,
+    "reason": "请求成功！",
+    "result": {
+        "imgList": [
+            {
+            	"id": 1,
+            	"img_src":"img/banner3.jpg",
+            	"hasButton":0,
+            	"href":"html/item.html?0?1",
+            	"black":1
+            },
+            {
+            	"id": 3,
+            	"img_src":"img/banner4.jpg",
+            	"hasButton":2,
+            	"black":0,
+            	"button":[
+            		{
+	            		"buttonWidth":"150px",
+		            	"buttonHeight":"55px",
+		            	"buttonLeft":"61px",
+		            	"buttonTop":"438px",
+		            	"href":"html/item.html?0?7"
+            		},
+            		{
+	            		"buttonWidth":"150px",
+		            	"buttonHeight":"55px",
+		            	"buttonLeft":"226px",
+		            	"buttonTop":"438px",
+		            	"href":"html/item.html?0?7"
+            		}	
+            	]
+            },
+            {
+            	"id": 4,
+            	"img_src":"img/banner2.jpg",
+            	"hasButton":2,
+            	"black":0,
+            	"button":[
+            		{
+	            		"buttonWidth":"157px",
+		            	"buttonHeight":"64px",
+		            	"buttonLeft":"11px",
+		            	"buttonTop":"438px",
+		            	"href":"html/item.html?0?5"
+            		},
+            		{
+	            		"buttonWidth":"157px",
+		            	"buttonHeight":"64px",
+		            	"buttonLeft":"181px",
+		            	"buttonTop":"438px",
+		            	"href":"html/item.html?0?5"
+            		}	
+            	]
+            },
+            {
+            	"id": 5,
+            	"img_src":"img/banner1.jpg",
+            	"hasButton":2,
+            	"black":0,
+            	"button":[
+            		{
+	            		"buttonWidth":"140px",
+		            	"buttonHeight":"54px",
+		            	"buttonLeft":"91px",
+		            	"buttonTop":"424px",
+		            	"href":"html/item.html?0?10"
+            		},
+            		{
+	            		"buttonWidth":"140px",
+		            	"buttonHeight":"54px",
+		            	"buttonLeft":"252px",
+		            	"buttonTop":"424px",
+		            	"href":"html/item.html?0?10"
+            		}	
+            	]
+            }
+		]
+	}
+}

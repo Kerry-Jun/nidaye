@@ -1,0 +1,184 @@
+{
+	"error_code": 200,
+	"reason": "请求成功！",
+	"result": {
+		"itemList": [
+			{
+				"details": [
+					{
+						"cid": 0,
+						"pid": 1,
+						"name": "魅族 MX6",
+						"img_src": "../img/item_img/mx6/mx6_item_list1.png"
+					}, {
+						"cid": 0,
+						"pid": 2,
+						"name": "魅族PRO 6",
+						"img_src": "../img/item_img/pro6/pro6_item_list1.png"
+					}, {
+						"cid": 0,
+						"pid": 3,
+						"name": "魅族PRO 5",
+						"img_src": "../img/item_img/pro5/pro5_item_list1.png"
+					}, {
+						"cid": 0,
+						"pid": 4,
+						"name": "魅族 MX5",
+						"img_src": "../img/item_img/mx5/mx5_item_list1.png"
+					}, {
+						"cid": 0,
+						"pid": 5,
+						"name": "魅蓝 Max",
+						"img_src": "../img/item_img/max/max_item_list1.png"
+					}, {
+						"cid": 0,
+						"pid": 6,
+						"name": "魅蓝 U20",
+						"img_src": "../img/item_img/u20/u20_item_list1.png"
+					}, {
+						"cid": 0,
+						"pid": 7,
+						"name": "魅蓝 U10",
+						"img_src": "../img/item_img/u10/u10_item_list1.png"
+					}, {
+						"cid": 0,
+						"pid": 8,
+						"name": "魅蓝3s",
+						"img_src": "../img/item_img/3s/3s_item_list1.png"
+					}, {
+						"cid": 0,
+						"pid": 9,
+						"name": "魅蓝3",
+						"img_src": "../img/item_img/mei3/mei3_item_list1.png"
+					}, {
+						"cid": 0,
+						"pid": 10,
+						"name": "魅蓝 E",
+						"img_src": "../img/item_img/meiE/meiE_item_list1.png"
+					}, {
+						"cid": 0,
+						"pid": 11,
+						"name": "魅蓝note3",
+						"img_src": "../img/item_img/note3/note3_item_list1.png"
+					}, {
+						"cid": 0,
+						"pid": 19,
+						"name": "魅族MX5e 经典版",
+						"img_src": "../img/item_img/mx5e/mx5e_item_list1.png"
+					}
+				]
+			},
+			{
+				"details":[
+					{
+						"cid": 2,
+						"pid": 20,
+						"name": "迅雷下载宝 TB01",
+						"img_src": "../img/item_img/TB01/TB01_item_list1.png"
+					}, {
+						"cid": 2,
+						"pid": 21,
+						"name": "航嘉MINI-MX2 USB扩展转换器",
+						"img_src": "../img/item_img/MINI-MX2/MINI-MX2_item_list1.png"
+					}, {
+						"cid": 2,
+						"pid": 22,
+						"name": "极路客 ( Goluk )G1 智能行车记录仪",
+						"img_src": "../img/item_img/G1/G1_item_list1.png"
+					}, {
+						"cid": 2,
+						"pid": 23,
+						"name": "北通阿修罗TE版无线震动游戏手柄",
+						"img_src": "../img/item_img/handle/handle_item_list1.png"
+					}
+				]
+			},
+			{
+				"details":[
+					{
+						"cid": 1,
+						"pid": 15,
+						"name": "魅族 EP51蓝牙运动耳机",
+						"img_src": "../img/item_img/EP51/EP51_item_list1.png"
+					}, {
+						"cid": 1,
+						"pid": 16,
+						"name": "魅族HD50 头戴式耳机",
+						"img_src": "../img/item_img/HD50/HD50_item_list1.png"
+					}, {
+						"cid": 1,
+						"pid": 19,
+						"name": "魅族 Lifeme BTS30 蓝牙音箱",
+						"img_src": "../img/item_img/BTS30/BTS30_item_list1.png"
+					}
+				]
+			},
+			{
+				"details":[
+					{
+						"cid": 1,
+						"pid": 18,
+						"name": "魅族移动电源（标准版）",
+						"img_src": "../img/item_img/battery(standard)/battery(standard)_item_list1.png"
+					},{
+						"cid": 1,
+						"pid": 17,
+						"name": "魅族移动电源 快充版",
+						"img_src": "../img/item_img/battery/battery_item_list1.png"
+					},{
+						"cid": 2,
+						"pid": 14,
+						"name": "魅族路由器 极速版",
+						"img_src": "../img/item_img/router/router_item_head_small1.jpg"
+					},{
+						"cid": 2,
+						"pid": 27,
+						"name": "魅族智能路由器",
+						"img_src": "../img/item_img/intRouter/intRouter_item_head_small1.jpg"
+					}
+				]
+			},
+			{
+				"details":[
+					{
+						"cid": 1,
+						"pid": 13,
+						"name": "Loop Jacket环窗智能保护套（MX6）",
+						"img_src": "../img/item_img/smartCover/smartCover_item_list1.png"
+					}
+				]
+			},
+			{
+				"details":[
+					{
+						"cid": 2,
+						"pid": 24,
+						"name": "罗马仕AC10快充适配器",
+						"img_src": "../img/item_img/AC10/AC10_item_list1.png"
+					}
+				]
+			},
+			{
+				"details":[
+					{
+						"cid": 2,
+						"pid": 25,
+						"name": "铭魔印象迷你补光美颜镜蓝牙版自拍杆",
+						"img_src": "../img/item_img/phoneHandle/phoneHandle_item_list1.png"
+					}
+				]
+			},
+			{
+				"details":[
+					{
+						"cid": 1,
+						"pid": 12,
+						"name": "魅族 休闲旅行双肩包",
+						"img_src": "../img/item_img/bag/bag_item_list1.png"
+					}
+				]
+			}
+		]
+	}
+}
+

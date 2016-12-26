@@ -1,0 +1,33 @@
+{
+    "error_code": 200,
+    "reason": "请求成功！",
+    "result": {
+        "imgList": [
+            {
+            	"id": 1,
+            	"img_src":"../img/item_img/soldMall/banner1.jpg",
+            	"href":"html/item.html?0?1"
+            },
+            {
+            	"id": 2,
+            	"img_src":"../img/item_img/soldMall/banner2.jpg",
+            	"href":"html/item.html?0?1"
+            },
+            {
+            	"id": 3,
+            	"img_src":"../img/item_img/soldMall/banner3.jpg",
+            	"href":"html/item.html?0?1"
+            },
+            {
+            	"id": 4,
+            	"img_src":"../img/item_img/soldMall/banner4.jpg",
+            	"href":"html/item.html?0?1"
+            },
+            {
+            	"id": 5,
+            	"img_src":"../img/item_img/soldMall/banner5.jpg",
+            	"href":"html/item.html?0?1"
+            }
+		]
+	}
+}
